@@ -1,0 +1,142 @@
+[
+  {
+    "file": "LowerFollowerLink.ipt",
+    "changed": false,
+    "changes": "",
+    "quantity": 2,
+    "print_orientation": "Broad flat face down; native Y=0 on bed",
+    "category": "3D print",
+    "source_sha256": "b8a0581b11c399f031c6f8b9d1f72c25b63f1a84769079fd765e6b38ee70ca0a",
+    "final_sha256": "b8a0581b11c399f031c6f8b9d1f72c25b63f1a84769079fd765e6b38ee70ca0a"
+  },
+  {
+    "file": "LowerPivotSpacer.ipt",
+    "changed": false,
+    "changes": "",
+    "quantity": 2,
+    "print_orientation": "Annular end down; native Y=0 on bed",
+    "category": "3D print",
+    "source_sha256": "053e99ba7a11afdf8324119d0d4d65422770ebb93dc29de0da0379ab04f23242",
+    "final_sha256": "053e99ba7a11afdf8324119d0d4d65422770ebb93dc29de0da0379ab04f23242"
+  },
+  {
+    "file": "UpperPivotSpacer.ipt",
+    "changed": false,
+    "changes": "",
+    "quantity": 4,
+    "print_orientation": "Annular end down; native Y=0 on bed",
+    "category": "3D print",
+    "source_sha256": "1205d6212d434c4c8a68e671af2a38e6dad37eebe1637164b3c630e8a08d424c",
+    "final_sha256": "1205d6212d434c4c8a68e671af2a38e6dad37eebe1637164b3c630e8a08d424c"
+  },
+  {
+    "file": "P1-02 Design Study Structural Pillar.ipt",
+    "changed": false,
+    "changes": "",
+    "quantity": 3,
+    "print_orientation": "Annular end down; native Y=0 on bed",
+    "category": "3D print",
+    "source_sha256": "777a8f89ea0b594ec0612ac00fd2e8884cb8f9218e9ec023d2618642046a7c2c",
+    "final_sha256": "777a8f89ea0b594ec0612ac00fd2e8884cb8f9218e9ec023d2618642046a7c2c"
+  },
+  {
+    "file": "Update 1.2 Left Finger and Pad Carrier.ipt",
+    "changed": false,
+    "changes": "",
+    "quantity": 1,
+    "print_orientation": "Broad flat face down; native Z=0 on bed",
+    "category": "3D print",
+    "source_sha256": "b0fcc214893839cdd7ecd395cd5776ca8682ac40e88da6805726a193b0380ec7",
+    "final_sha256": "b0fcc214893839cdd7ecd395cd5776ca8682ac40e88da6805726a193b0380ec7"
+  },
+  {
+    "file": "Update 1.2 Right Finger and Pad Carrier.ipt",
+    "changed": false,
+    "changes": "",
+    "quantity": 1,
+    "print_orientation": "Broad flat face down; native Z=0 on bed",
+    "category": "3D print",
+    "source_sha256": "751d425e75841a122f41d1ca0309e5a6eb35b32bad43f5b8cd3a998ee33cfc77",
+    "final_sha256": "751d425e75841a122f41d1ca0309e5a6eb35b32bad43f5b8cd3a998ee33cfc77"
+  },
+  {
+    "file": "P4-05 Foam contact pad.ipt",
+    "changed": false,
+    "changes": "",
+    "quantity": 2,
+    "print_orientation": "Cut 28 x 8 x 2 mm soft foam",
+    "category": "Cut foam; do not rigid-print",
+    "source_sha256": "5324c43195375ad7285f1084518cf84fdd72d6f95505f6990c91a7c1c1330177",
+    "final_sha256": "5324c43195375ad7285f1084518cf84fdd72d6f95505f6990c91a7c1c1330177"
+  },
+  {
+    "file": "Update 1.2 Uppercrankline and Left Driven Gears.ipt",
+    "changed": true,
+    "changes": "Cap reduced from 28 to 25.5 mm to prevent collision; 1.25 mm 45 degree tooth transition; exposed face 2.5 mm chamfer",
+    "quantity": 1,
+    "print_orientation": "Flat crank face down; native Z=9.5 on bed",
+    "category": "3D print",
+    "source_sha256": "820a536c5db568eef7d606b16c01a10f0566c177a39330ae6e3eb3210f06f853",
+    "final_sha256": "1033d236ee8faf2bc951df5bf2a298769ed03a81f129d7b206ec75588bf21ed3"
+  },
+  {
+    "file": "Update 1.2 Uppercrankline and Right Driven Gears.ipt",
+    "changed": true,
+    "changes": "Cap reduced from 28 to 25.5 mm to prevent collision; 1.25 mm 45 degree tooth transition; exposed face 2.5 mm chamfer",
+    "quantity": 1,
+    "print_orientation": "Flat crank face down; native Z=9.5 on bed",
+    "category": "3D print",
+    "source_sha256": "f263f04b8214636b68cae0d183ec704e4fe2961a9be247cee139a86768d13764",
+    "final_sha256": "57661bd9e9785edca1c6eeb945ab3c9439bcae77f5529ef2a8cb690005e625f1"
+  },
+  {
+    "file": "P1-01_Lower_Mounting_Frame.ipt",
+    "changed": true,
+    "changes": "Four blind axle pockets replaced with M3 clearance through holes and captive M3 nuts. Original platform mount coordinates retained verified against supplied platform; maximum centre error 0.000030 mm.",
+    "quantity": 1,
+    "print_orientation": "Flat upper face down; native Z=3 on bed; nut pockets face upward",
+    "category": "3D print",
+    "source_sha256": "1142fe5e644217cc09932e1b7d168516819c5487ee2dd66798a7bd18b53327ee",
+    "final_sha256": "8be940b08784a4f5c5124feca3a42bf92659b5a96d78aabb655c07636c7e8347"
+  },
+  {
+    "file": "P4-04 Upper axle-support plate.ipt",
+    "changed": true,
+    "changes": "Blind axle pockets replaced with M3 clearance through holes; four 6.6 mm tool-access holes over platform mounting screws.",
+    "quantity": 1,
+    "print_orientation": "Either broad flat face down",
+    "category": "3D print",
+    "source_sha256": "2b8ee6cf0302203b7979bbd9dcfea970ef95edaf4af3d9a698567fe39b20bd88",
+    "final_sha256": "956465b32ecd25dbee189c4eed27c69eb8beec80cf5051a0761c376523487a8c"
+  },
+  {
+    "file": "P2-01 Input pinion 18 teeth.ipt",
+    "changed": true,
+    "changes": "M2 radial pilot replaced by 2.5 mm M3 tapping pilot at Z=2 mm. Tap M3 x 0.5 after printing. 45 degree teardrop roof in print orientation.",
+    "quantity": 1,
+    "print_orientation": "Full gear face down; native Z=8 on bed",
+    "category": "3D print",
+    "source_sha256": "89a43a6074306cfdc258c1513421eb76e3b79fbc2da1fe78385341d909e5724c",
+    "final_sha256": "d97766a4d897ed41b6f02ee1d81c26f2fe1f64182e2aed163d3aa5000d10f095"
+  },
+  {
+    "file": "Hardware/Pivot sleeve 4OD 3.2ID x14.ipt",
+    "changed": true,
+    "changes": "Metal tube sleeve; cut square to 14 mm; deburr; M3 bolt runs inside",
+    "quantity": 4,
+    "print_orientation": "Do not print",
+    "category": "Metal hardware",
+    "source_sha256": null,
+    "final_sha256": "63ec8be16f6b7c67c96002e880ef80ccffe33af133f8d20e745ec590891dce3c"
+  },
+  {
+    "file": "Hardware/Pivot sleeve 4OD 3.2ID x13.ipt",
+    "changed": true,
+    "changes": "Metal tube sleeve; cut square to 13 mm; deburr; M3 bolt runs inside",
+    "quantity": 4,
+    "print_orientation": "Do not print",
+    "category": "Metal hardware",
+    "source_sha256": null,
+    "final_sha256": "8eabfbe9ae19a61c5f5ce3613adcf208facefcad2c95c6acf2dad0022be98db4"
+  }
+]

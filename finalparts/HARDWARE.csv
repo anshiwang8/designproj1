@@ -1,0 +1,10 @@
+﻿Item,Quantity,Use
+M3 x 20 socket-head screw,11,7 support/frame joints; 4 finger pivots
+M3 x 10 countersunk screw,4,"Platform mounting; 90 degree head, approx 6 mm diameter"
+M3 x 4 grub/set screw,1,Pinion hub; tap pilot M3 x 0.5
+"M3 hex nut, 5.5 mm AF x 2.4 mm",11,7 captive frame nuts + 4 platform nuts
+"M3 nyloc nut, approx 4 mm high",4,Finger pivots
+"M3 flat washer, 7 OD / 3.2 ID / 0.5 thick",12,8 finger pivot washers + 4 platform washers
+"Metal sleeve, 4 OD / 3.2 ID x 14 long",4,Fixed gear/follower axes; cut square and deburr
+"Metal sleeve, 4 OD / 3.2 ID x 13 long",4,Finger/link pivots; cut square and deburr
+"Soft foam, 28 x 8 x 2 mm",2,Bond to integrated finger pad carriers

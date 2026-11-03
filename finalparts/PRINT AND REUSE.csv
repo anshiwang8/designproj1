@@ -1,0 +1,15 @@
+﻿File,Quantity,Action,Print orientation,Change
+LowerFollowerLink.ipt,2,REUSE - unchanged; print only if missing,Broad flat face down; native Y=0 on bed,Identical to original file
+LowerPivotSpacer.ipt,2,REUSE - unchanged; print only if missing,Annular end down; native Y=0 on bed,Identical to original file
+UpperPivotSpacer.ipt,4,REUSE - unchanged; print only if missing,Annular end down; native Y=0 on bed,Identical to original file
+P1-02 Design Study Structural Pillar.ipt,3,REUSE - unchanged; print only if missing,Annular end down; native Y=0 on bed,Identical to original file
+Update 1.2 Left Finger and Pad Carrier.ipt,1,REUSE - unchanged; print only if missing,Broad flat face down; native Z=0 on bed,Identical to original file
+Update 1.2 Right Finger and Pad Carrier.ipt,1,REUSE - unchanged; print only if missing,Broad flat face down; native Z=0 on bed,Identical to original file
+P4-05 Foam contact pad.ipt,2,Cut foam; do not rigid-print,Cut 28 x 8 x 2 mm soft foam,Identical to original file
+Update 1.2 Uppercrankline and Left Driven Gears.ipt,1,REPRINT - revised,Flat crank face down; native Z=9.5 on bed,Cap reduced from 28 to 25.5 mm to prevent collision; 1.25 mm 45 degree tooth transition; exposed face 2.5 mm chamfer
+Update 1.2 Uppercrankline and Right Driven Gears.ipt,1,REPRINT - revised,Flat crank face down; native Z=9.5 on bed,Cap reduced from 28 to 25.5 mm to prevent collision; 1.25 mm 45 degree tooth transition; exposed face 2.5 mm chamfer
+P1-01_Lower_Mounting_Frame.ipt,1,REPRINT - revised,Flat upper face down; native Z=3 on bed; nut pockets face upward,Four blind axle pockets replaced with M3 clearance through holes and captive M3 nuts. Original platform mount coordinates retained verified against supplied platform; maximum centre error 0.000030 mm.
+P4-04 Upper axle-support plate.ipt,1,REPRINT - revised,Either broad flat face down,Blind axle pockets replaced with M3 clearance through holes; four 6.6 mm tool-access holes over platform mounting screws.
+P2-01 Input pinion 18 teeth.ipt,1,REPRINT - revised,Full gear face down; native Z=8 on bed,M2 radial pilot replaced by 2.5 mm M3 tapping pilot at Z=2 mm. Tap M3 x 0.5 after printing. 45 degree teardrop roof in print orientation.
+Hardware/Pivot sleeve 4OD 3.2ID x14.ipt,4,Metal hardware,Do not print,Metal tube sleeve; cut square to 14 mm; deburr; M3 bolt runs inside
+Hardware/Pivot sleeve 4OD 3.2ID x13.ipt,4,Metal hardware,Do not print,Metal tube sleeve; cut square to 13 mm; deburr; M3 bolt runs inside
