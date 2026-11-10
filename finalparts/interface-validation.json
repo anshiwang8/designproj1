@@ -1,739 +1,2611 @@
 {
-  "through_bores": [
-    {
-      "file": "P1-01_Lower_Mounting_Frame.ipt",
-      "centre_mm": [
-        -14,
-        -21,
-        -1
-      ],
-      "diameter_mm": 3.4,
-      "all_nine_rays_clear": true,
-      "ray_hits": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "file": "P1-01_Lower_Mounting_Frame.ipt",
-      "centre_mm": [
-        35,
-        -21,
-        -1
-      ],
-      "diameter_mm": 3.4,
-      "all_nine_rays_clear": true,
-      "ray_hits": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "file": "P1-01_Lower_Mounting_Frame.ipt",
-      "centre_mm": [
-        -14,
-        28,
-        -1
-      ],
-      "diameter_mm": 3.4,
-      "all_nine_rays_clear": true,
-      "ray_hits": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "file": "P1-01_Lower_Mounting_Frame.ipt",
-      "centre_mm": [
-        35,
-        28,
-        -1
-      ],
-      "diameter_mm": 3.4,
-      "all_nine_rays_clear": true,
-      "ray_hits": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "file": "P1-01_Lower_Mounting_Frame.ipt",
-      "centre_mm": [
-        -12,
-        -12,
-        -1
-      ],
-      "diameter_mm": 3.4,
-      "all_nine_rays_clear": true,
-      "ray_hits": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "file": "P1-01_Lower_Mounting_Frame.ipt",
-      "centre_mm": [
-        38,
-        -12,
-        -1
-      ],
-      "diameter_mm": 3.4,
-      "all_nine_rays_clear": true,
-      "ray_hits": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "file": "P1-01_Lower_Mounting_Frame.ipt",
-      "centre_mm": [
-        13,
-        37,
-        -1
-      ],
-      "diameter_mm": 3.4,
-      "all_nine_rays_clear": true,
-      "ray_hits": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "file": "P1-01_Lower_Mounting_Frame.ipt",
-      "centre_mm": [
-        0,
-        22,
-        -1
-      ],
-      "diameter_mm": 3.4,
-      "all_nine_rays_clear": true,
-      "ray_hits": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "file": "P1-01_Lower_Mounting_Frame.ipt",
-      "centre_mm": [
-        26,
-        22,
-        -1
-      ],
-      "diameter_mm": 3.4,
-      "all_nine_rays_clear": true,
-      "ray_hits": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "file": "P1-01_Lower_Mounting_Frame.ipt",
-      "centre_mm": [
-        7,
-        46,
-        -1
-      ],
-      "diameter_mm": 3.4,
-      "all_nine_rays_clear": true,
-      "ray_hits": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "file": "P1-01_Lower_Mounting_Frame.ipt",
-      "centre_mm": [
-        19,
-        46,
-        -1
-      ],
-      "diameter_mm": 3.4,
-      "all_nine_rays_clear": true,
-      "ray_hits": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "file": "P4-04 Upper axle-support plate.ipt",
-      "centre_mm": [
-        -12,
-        -12,
-        -1
-      ],
-      "diameter_mm": 3.4,
-      "all_nine_rays_clear": true,
-      "ray_hits": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "file": "P4-04 Upper axle-support plate.ipt",
-      "centre_mm": [
-        38,
-        -12,
-        -1
-      ],
-      "diameter_mm": 3.4,
-      "all_nine_rays_clear": true,
-      "ray_hits": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "file": "P4-04 Upper axle-support plate.ipt",
-      "centre_mm": [
-        13,
-        37,
-        -1
-      ],
-      "diameter_mm": 3.4,
-      "all_nine_rays_clear": true,
-      "ray_hits": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "file": "P4-04 Upper axle-support plate.ipt",
-      "centre_mm": [
-        0,
-        22,
-        -1
-      ],
-      "diameter_mm": 3.4,
-      "all_nine_rays_clear": true,
-      "ray_hits": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "file": "P4-04 Upper axle-support plate.ipt",
-      "centre_mm": [
-        26,
-        22,
-        -1
-      ],
-      "diameter_mm": 3.4,
-      "all_nine_rays_clear": true,
-      "ray_hits": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "file": "P4-04 Upper axle-support plate.ipt",
-      "centre_mm": [
-        7,
-        46,
-        -1
-      ],
-      "diameter_mm": 3.4,
-      "all_nine_rays_clear": true,
-      "ray_hits": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "file": "P4-04 Upper axle-support plate.ipt",
-      "centre_mm": [
-        19,
-        46,
-        -1
-      ],
-      "diameter_mm": 3.4,
-      "all_nine_rays_clear": true,
-      "ray_hits": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "file": "P1-02 Design Study Structural Pillar.ipt",
-      "centre_mm": [
-        0,
-        -1,
-        0
-      ],
-      "diameter_mm": 3.4,
-      "all_nine_rays_clear": true,
-      "ray_hits": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "file": "LowerFollowerLink.ipt",
-      "centre_mm": [
-        0,
-        -1,
-        -5
-      ],
-      "diameter_mm": 4.3,
-      "all_nine_rays_clear": true,
-      "ray_hits": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "file": "LowerFollowerLink.ipt",
-      "centre_mm": [
-        0,
-        -1,
-        -50
-      ],
-      "diameter_mm": 4.3,
-      "all_nine_rays_clear": true,
-      "ray_hits": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "file": "LowerPivotSpacer.ipt",
-      "centre_mm": [
-        0,
-        -1,
-        0
-      ],
-      "diameter_mm": 4.3,
-      "all_nine_rays_clear": true,
-      "ray_hits": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "file": "UpperPivotSpacer.ipt",
-      "centre_mm": [
-        0,
-        -1,
-        0
-      ],
-      "diameter_mm": 4.3,
-      "all_nine_rays_clear": true,
-      "ray_hits": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "file": "Update 1.2 Uppercrankline and Left Driven Gears.ipt",
-      "centre_mm": [
-        0,
-        0,
-        -1
-      ],
-      "diameter_mm": 4.3,
-      "all_nine_rays_clear": true,
-      "ray_hits": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "file": "Update 1.2 Uppercrankline and Left Driven Gears.ipt",
-      "centre_mm": [
-        0,
-        45,
-        -1
-      ],
-      "diameter_mm": 4.3,
-      "all_nine_rays_clear": true,
-      "ray_hits": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "file": "Update 1.2 Left Finger and Pad Carrier.ipt",
-      "centre_mm": [
-        0,
-        0,
-        -1
-      ],
-      "diameter_mm": 4.3,
-      "all_nine_rays_clear": true,
-      "ray_hits": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "file": "Update 1.2 Left Finger and Pad Carrier.ipt",
-      "centre_mm": [
-        7,
-        24,
-        -1
-      ],
-      "diameter_mm": 4.3,
-      "all_nine_rays_clear": true,
-      "ray_hits": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "file": "Update 1.2 Uppercrankline and Right Driven Gears.ipt",
-      "centre_mm": [
-        0,
-        0,
-        -1
-      ],
-      "diameter_mm": 4.3,
-      "all_nine_rays_clear": true,
-      "ray_hits": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "file": "Update 1.2 Uppercrankline and Right Driven Gears.ipt",
-      "centre_mm": [
-        0,
-        45,
-        -1
-      ],
-      "diameter_mm": 4.3,
-      "all_nine_rays_clear": true,
-      "ray_hits": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "file": "Update 1.2 Right Finger and Pad Carrier.ipt",
-      "centre_mm": [
-        0,
-        0,
-        -1
-      ],
-      "diameter_mm": 4.3,
-      "all_nine_rays_clear": true,
-      "ray_hits": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "file": "Update 1.2 Right Finger and Pad Carrier.ipt",
-      "centre_mm": [
-        -7,
-        24,
-        -1
-      ],
-      "diameter_mm": 4.3,
-      "all_nine_rays_clear": true,
-      "ray_hits": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    }
-  ],
-  "mounting_pattern": [
-    {
-      "frame_hole_mm": [
-        -14,
-        -21
-      ],
-      "platform_hole_mm": [
-        -13.999991385812509,
-        -20.999971924516203
-      ],
-      "centre_error_mm": 2.936727799083439e-05
-    },
-    {
-      "frame_hole_mm": [
-        35,
-        -21
-      ],
-      "platform_hole_mm": [
-        35.00000861418749,
-        -20.999971924516203
-      ],
-      "centre_error_mm": 2.936727799135544e-05
-    },
-    {
-      "frame_hole_mm": [
-        -14,
-        28
-      ],
-      "platform_hole_mm": [
-        -13.999991385812509,
-        28.000028075483797
-      ],
-      "centre_error_mm": 2.936727799083439e-05
-    },
-    {
-      "frame_hole_mm": [
-        35,
-        28
-      ],
-      "platform_hole_mm": [
-        35.00000861418749,
-        28.000028075483797
-      ],
-      "centre_error_mm": 2.936727799135544e-05
-    }
-  ],
+  "date": "2026-11-10",
   "unchanged_files": [
+    "P1-01_Lower_Mounting_Frame.ipt",
+    "P2-01 Input pinion 18 teeth.ipt",
+    "ReferencePlatform\\B3B-EH.ipt",
+    "ReferencePlatform\\DC11_A01_HORN_INSERT_1.ipt",
+    "ReferencePlatform\\DC11_A01_WIN_LED.ipt",
+    "ReferencePlatform\\DC11_B01_CASE_B_DUMMY2.ipt",
+    "ReferencePlatform\\DC11_B01_CASE_F_DUMMY.ipt",
+    "ReferencePlatform\\DC11_B01_CASE_M_DUMMY.ipt",
+    "ReferencePlatform\\DC14_A01_INSERT_1.ipt",
+    "ReferencePlatform\\DX124_SCREW-COVER.ipt",
+    "ReferencePlatform\\EHR-3.ipt",
+    "ReferencePlatform\\End Effector Platform - rotating shaft reference.iam",
+    "ReferencePlatform\\End Effector Platform Base.ipt",
+    "ReferencePlatform\\End Effector Platform Body.ipt",
+    "ReferencePlatform\\End Effector Platform Compartment Lid.ipt",
+    "ReferencePlatform\\End Effector Platform.iam",
+    "ReferencePlatform\\End Effector Platform.ipt",
+    "ReferencePlatform\\FHS_M2_5X06_NYLOK.ipt",
+    "ReferencePlatform\\Gripper Motor Cover.ipt",
+    "ReferencePlatform\\M_DC11_A01_HORN.ipt",
+    "ReferencePlatform\\M_DC11_A01_HORN_ASM.iam",
+    "ReferencePlatform\\N20 Mini Micro Metall Gear Motor DC 3-6-12V v1 v1.ipt",
+    "ReferencePlatform\\N20 stationary motor reference.ipt",
+    "ReferencePlatform\\PHS_M2_5X12_K.ipt",
+    "ReferencePlatform\\Quanser QUARC EE Board.ipt",
+    "ReferencePlatform\\XC-430_idle v3.iam",
+    "ReferencePlatform\\OldVersions\\End Effector Platform - rotating shaft reference.0001.iam"
+  ],
+  "cylindrical_bores": [
     {
       "file": "LowerFollowerLink.ipt",
-      "quantity": 2,
-      "sha256": "b8a0581b11c399f031c6f8b9d1f72c25b63f1a84769079fd765e6b38ee70ca0a"
+      "cylinders": [
+        {
+          "diameter_mm": 4.3,
+          "base_mm": [
+            -6.123233995736765e-16,
+            0.0,
+            -4.999999999999999
+          ],
+          "axis": [
+            0.0,
+            1.0,
+            0.0
+          ]
+        },
+        {
+          "diameter_mm": 4.3,
+          "base_mm": [
+            -1.2246467991473534e-14,
+            0.0,
+            -50.00000000000001
+          ],
+          "axis": [
+            0.0,
+            1.0,
+            0.0
+          ]
+        },
+        {
+          "diameter_mm": 10.0,
+          "base_mm": [
+            -6.123233995736765e-16,
+            0.0,
+            -4.999999999999999
+          ],
+          "axis": [
+            0.0,
+            1.0,
+            0.0
+          ]
+        },
+        {
+          "diameter_mm": 10.0,
+          "base_mm": [
+            -1.2246467991473534e-14,
+            0.0,
+            -50.00000000000001
+          ],
+          "axis": [
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ]
     },
     {
       "file": "LowerPivotSpacer.ipt",
-      "quantity": 2,
-      "sha256": "053e99ba7a11afdf8324119d0d4d65422770ebb93dc29de0da0379ab04f23242"
+      "cylinders": [
+        {
+          "diameter_mm": 4.3,
+          "base_mm": [
+            0.0,
+            4.5,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            -1.0,
+            0.0
+          ]
+        },
+        {
+          "diameter_mm": 8.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ]
     },
     {
-      "file": "UpperPivotSpacer.ipt",
-      "quantity": 4,
-      "sha256": "1205d6212d434c4c8a68e671af2a38e6dad37eebe1637164b3c630e8a08d424c"
+      "file": "P1-01_Lower_Mounting_Frame.ipt",
+      "cylinders": [
+        {
+          "diameter_mm": 3.4,
+          "base_mm": [
+            19.0,
+            46.0,
+            1.5000000000000002
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 3.4,
+          "base_mm": [
+            7.0,
+            46.0,
+            1.5000000000000002
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 3.4,
+          "base_mm": [
+            26.0,
+            22.0,
+            1.5000000000000002
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 3.4,
+          "base_mm": [
+            0.0,
+            22.0,
+            1.5000000000000002
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 3.4,
+          "base_mm": [
+            -14.000000000000002,
+            -21.0,
+            0.0
+          ],
+          "axis": [
+            -0.0,
+            -0.0,
+            -1.0
+          ]
+        },
+        {
+          "diameter_mm": 24.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            -0.0,
+            -0.0,
+            -1.0
+          ]
+        },
+        {
+          "diameter_mm": 3.4,
+          "base_mm": [
+            35.0,
+            -21.0,
+            0.0
+          ],
+          "axis": [
+            -0.0,
+            -0.0,
+            -1.0
+          ]
+        },
+        {
+          "diameter_mm": 3.4,
+          "base_mm": [
+            -14.000000000000002,
+            28.000000000000004,
+            0.0
+          ],
+          "axis": [
+            -0.0,
+            -0.0,
+            -1.0
+          ]
+        },
+        {
+          "diameter_mm": 3.4,
+          "base_mm": [
+            35.0,
+            28.000000000000004,
+            0.0
+          ],
+          "axis": [
+            -0.0,
+            -0.0,
+            -1.0
+          ]
+        },
+        {
+          "diameter_mm": 3.4,
+          "base_mm": [
+            -12.000000000000002,
+            -12.000000000000002,
+            0.0
+          ],
+          "axis": [
+            -0.0,
+            -0.0,
+            -1.0
+          ]
+        },
+        {
+          "diameter_mm": 3.4,
+          "base_mm": [
+            38.0,
+            -12.000000000000002,
+            0.0
+          ],
+          "axis": [
+            -0.0,
+            -0.0,
+            -1.0
+          ]
+        },
+        {
+          "diameter_mm": 3.4,
+          "base_mm": [
+            13.0,
+            37.0,
+            0.0
+          ],
+          "axis": [
+            -0.0,
+            -0.0,
+            -1.0
+          ]
+        }
+      ]
     },
     {
       "file": "P1-02 Design Study Structural Pillar.ipt",
-      "quantity": 3,
-      "sha256": "777a8f89ea0b594ec0612ac00fd2e8884cb8f9218e9ec023d2618642046a7c2c"
+      "cylinders": [
+        {
+          "diameter_mm": 3.4,
+          "base_mm": [
+            0.0,
+            -4.779733838059499,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            1.0,
+            0.0
+          ]
+        },
+        {
+          "diameter_mm": 8.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ]
     },
     {
-      "file": "Update 1.2 Left Finger and Pad Carrier.ipt",
-      "quantity": 1,
-      "sha256": "b0fcc214893839cdd7ecd395cd5776ca8682ac40e88da6805726a193b0380ec7"
+      "file": "P2-01 Input pinion 18 teeth.ipt",
+      "cylinders": [
+        {
+          "diameter_mm": 2.5,
+          "base_mm": [
+            -3.62,
+            0.0,
+            2.0
+          ],
+          "axis": [
+            1.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "diameter_mm": 3.3,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 12.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 15.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 20.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 15.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 20.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 15.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 20.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 15.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 20.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 15.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 20.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 15.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 20.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 15.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 20.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 15.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 20.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 15.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 20.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 15.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 20.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 15.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 20.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 15.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 20.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 15.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 20.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 15.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 20.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 15.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 20.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 15.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 20.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 15.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 20.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 15.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 20.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            3.0000000000000004
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ]
     },
     {
-      "file": "Update 1.2 Right Finger and Pad Carrier.ipt",
-      "quantity": 1,
-      "sha256": "751d425e75841a122f41d1ca0309e5a6eb35b32bad43f5b8cd3a998ee33cfc77"
+      "file": "P4-04 Upper axle-support plate.ipt",
+      "cylinders": [
+        {
+          "diameter_mm": 6.6,
+          "base_mm": [
+            35.0,
+            28.0,
+            1.5000000000000002
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 6.6,
+          "base_mm": [
+            -14.0,
+            28.0,
+            1.5000000000000002
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 6.6,
+          "base_mm": [
+            35.0,
+            -21.0,
+            1.5000000000000002
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 6.6,
+          "base_mm": [
+            -14.0,
+            -21.0,
+            1.5000000000000002
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 3.4,
+          "base_mm": [
+            19.0,
+            46.0,
+            1.5000000000000002
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 3.4,
+          "base_mm": [
+            7.0,
+            46.0,
+            1.5000000000000002
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 3.4,
+          "base_mm": [
+            26.0,
+            22.0,
+            1.5000000000000002
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 3.4,
+          "base_mm": [
+            0.0,
+            22.0,
+            1.5000000000000002
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 3.4,
+          "base_mm": [
+            13.0,
+            37.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 3.4,
+          "base_mm": [
+            38.0,
+            -12.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 3.4,
+          "base_mm": [
+            -12.0,
+            -12.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ]
     },
     {
       "file": "P4-05 Foam contact pad.ipt",
-      "quantity": 2,
-      "sha256": "5324c43195375ad7285f1084518cf84fdd72d6f95505f6990c91a7c1c1330177"
+      "cylinders": []
+    },
+    {
+      "file": "Update 1.2 Left Finger and Pad Carrier.ipt",
+      "cylinders": [
+        {
+          "diameter_mm": 2.0,
+          "base_mm": [
+            0.0,
+            31.0,
+            7.000000000000001
+          ],
+          "axis": [
+            1.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "diameter_mm": 4.3,
+          "base_mm": [
+            7.0,
+            24.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 4.3,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "file": "Update 1.2 Right Finger and Pad Carrier.ipt",
+      "cylinders": [
+        {
+          "diameter_mm": 2.0,
+          "base_mm": [
+            0.0,
+            31.0,
+            7.000000000000001
+          ],
+          "axis": [
+            1.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "diameter_mm": 4.3,
+          "base_mm": [
+            -7.0,
+            24.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 4.3,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "file": "Update 1.2 Uppercrankline and Left Driven Gears.ipt",
+      "cylinders": [
+        {
+          "diameter_mm": 12.0,
+          "base_mm": [
+            -6.0368376963992966e-15,
+            45.00000000000003,
+            5.5
+          ],
+          "axis": [
+            0.0,
+            -0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 25.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            5.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 4.3,
+          "base_mm": [
+            -6.0368376963992966e-15,
+            45.00000000000003,
+            5.5
+          ],
+          "axis": [
+            0.0,
+            -0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 4.3,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "file": "Update 1.2 Uppercrankline and Right Driven Gears.ipt",
+      "cylinders": [
+        {
+          "diameter_mm": 12.0,
+          "base_mm": [
+            1.2136125437933755e-13,
+            45.0,
+            5.5
+          ],
+          "axis": [
+            -0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 25.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            5.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 4.3,
+          "base_mm": [
+            1.2136125437933755e-13,
+            45.0,
+            5.5
+          ],
+          "axis": [
+            -0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 4.3,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 28.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "diameter_mm": 23.5,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "file": "UpperPivotSpacer.ipt",
+      "cylinders": [
+        {
+          "diameter_mm": 4.3,
+          "base_mm": [
+            0.0,
+            2.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            -1.0,
+            0.0
+          ]
+        },
+        {
+          "diameter_mm": 8.0,
+          "base_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "axis": [
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ]
     }
   ],
-  "original_platform_files_byte_identical": true
+  "frame_screw_origins_mm": [
+    [
+      -12.000000000000002,
+      -12.000000000000002,
+      16.0
+    ],
+    [
+      38.0,
+      -12.000000000000002,
+      16.0
+    ],
+    [
+      13.0,
+      37.0,
+      16.0
+    ],
+    [
+      0.0,
+      22.0,
+      16.0
+    ],
+    [
+      26.0,
+      22.0,
+      16.0
+    ],
+    [
+      7.000000000000001,
+      46.00000000000001,
+      16.0
+    ],
+    [
+      19.0,
+      46.00000000000001,
+      16.0
+    ]
+  ],
+  "frame_screw_files": [
+    "M3x16 socket screw.ipt",
+    "M3x16 socket screw.ipt",
+    "M3x16 socket screw.ipt",
+    "M3x16 socket screw.ipt",
+    "M3x16 socket screw.ipt",
+    "M3x16 socket screw.ipt",
+    "M3x16 socket screw.ipt"
+  ],
+  "all_references_resolve_inside_finalparts": true,
+  "mesh_checks_passed": true
 }

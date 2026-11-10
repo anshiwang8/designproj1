@@ -1,1685 +1,1342 @@
 {
+  "revision_date": "2026-11-10",
   "parts": [
     {
-      "file": "LowerFollowerLink.ipt",
       "solid_count": 1,
-      "closed_shells": 1,
-      "healthy": true,
-      "external_references": 0,
-      "facets": 3268,
-      "bed_area_mm2": 499.4952027570553,
-      "unsupported_area_below_44deg_mm2": 0,
-      "unsupported_examples": [],
-      "unchanged_source_hash_matches": true
+      "is_solid": true,
+      "features": [
+        {
+          "name": "Extrusion2",
+          "health": 11778
+        }
+      ],
+      "bounds_mm": [
+        [
+          -5.000000000000011,
+          0.0,
+          -55.00000000000001
+        ],
+        [
+          4.999999999999998,
+          3.5000000000000004,
+          0.0
+        ]
+      ],
+      "file": "LowerFollowerLink.ipt"
     },
     {
-      "file": "LowerPivotSpacer.ipt",
       "solid_count": 1,
-      "closed_shells": 1,
-      "healthy": true,
-      "external_references": 0,
-      "facets": 2184,
-      "bed_area_mm2": 35.741927900577316,
-      "unsupported_area_below_44deg_mm2": 0,
-      "unsupported_examples": [],
-      "unchanged_source_hash_matches": true
+      "is_solid": true,
+      "features": [
+        {
+          "name": "Extrusion1",
+          "health": 11778
+        },
+        {
+          "name": "Extrusion2",
+          "health": 11778
+        }
+      ],
+      "bounds_mm": [
+        [
+          -4.0,
+          0.0,
+          -4.0
+        ],
+        [
+          4.0,
+          4.5,
+          4.0
+        ]
+      ],
+      "file": "LowerPivotSpacer.ipt"
     },
     {
-      "file": "UpperPivotSpacer.ipt",
       "solid_count": 1,
-      "closed_shells": 1,
-      "healthy": true,
-      "external_references": 0,
-      "facets": 2184,
-      "bed_area_mm2": 35.74192790057727,
-      "unsupported_area_below_44deg_mm2": 0,
-      "unsupported_examples": [],
-      "unchanged_source_hash_matches": true
+      "is_solid": true,
+      "features": [
+        {
+          "name": "Final manufacturing geometry",
+          "health": 11778
+        },
+        {
+          "name": "M3 captive nut pocket 0 22",
+          "health": 11778
+        },
+        {
+          "name": "M3 captive nut pocket 26 22",
+          "health": 11778
+        },
+        {
+          "name": "M3 captive nut pocket 7 46",
+          "health": 11778
+        },
+        {
+          "name": "M3 captive nut pocket 19 46",
+          "health": 11778
+        }
+      ],
+      "bounds_mm": [
+        [
+          -20.0,
+          -26.0,
+          0.0
+        ],
+        [
+          46.00000000000001,
+          54.0,
+          3.0000000000000004
+        ]
+      ],
+      "file": "P1-01_Lower_Mounting_Frame.ipt"
     },
     {
-      "file": "P1-02 Design Study Structural Pillar.ipt",
       "solid_count": 1,
-      "closed_shells": 1,
-      "healthy": true,
-      "external_references": 0,
-      "facets": 2080,
-      "bed_area_mm2": 41.184368025157966,
-      "unsupported_area_below_44deg_mm2": 0,
-      "unsupported_examples": [],
-      "unchanged_source_hash_matches": true
+      "is_solid": true,
+      "features": [
+        {
+          "name": "Extrusion1",
+          "health": 11778
+        },
+        {
+          "name": "Hole1",
+          "health": 11778
+        }
+      ],
+      "bounds_mm": [
+        [
+          -4.0,
+          0.0,
+          -4.0
+        ],
+        [
+          4.0,
+          11.0,
+          4.0
+        ]
+      ],
+      "file": "P1-02 Design Study Structural Pillar.ipt"
     },
     {
-      "file": "Update 1.2 Left Finger and Pad Carrier.ipt",
       "solid_count": 1,
-      "closed_shells": 1,
-      "healthy": true,
-      "external_references": 0,
-      "facets": 1896,
-      "bed_area_mm2": 950.9595570901315,
-      "unsupported_area_below_44deg_mm2": 0,
-      "unsupported_examples": [],
-      "unchanged_source_hash_matches": true
+      "is_solid": true,
+      "features": [
+        {
+          "name": "Final manufacturing geometry",
+          "health": 11778
+        },
+        {
+          "name": "45 degree roof on M3 tapping pilot",
+          "health": 11778
+        }
+      ],
+      "bounds_mm": [
+        [
+          -10.0,
+          -9.893601488753637,
+          0.0
+        ],
+        [
+          10.0,
+          9.893601488753644,
+          8.0
+        ]
+      ],
+      "file": "P2-01 Input pinion 18 teeth.ipt"
     },
     {
-      "file": "Update 1.2 Right Finger and Pad Carrier.ipt",
       "solid_count": 1,
-      "closed_shells": 1,
-      "healthy": true,
-      "external_references": 0,
-      "facets": 1896,
-      "bed_area_mm2": 950.959557090131,
-      "unsupported_area_below_44deg_mm2": 0,
-      "unsupported_examples": [],
-      "unchanged_source_hash_matches": true
+      "is_solid": true,
+      "features": [
+        {
+          "name": "Final manufacturing geometry",
+          "health": 11778
+        },
+        {
+          "name": "Upper plate thickness reduced to 2 mm",
+          "health": 11778
+        }
+      ],
+      "bounds_mm": [
+        [
+          -20.0,
+          -26.000000000000007,
+          0.0
+        ],
+        [
+          46.0,
+          53.99999999999999,
+          2.0
+        ]
+      ],
+      "file": "P4-04 Upper axle-support plate.ipt"
     },
     {
-      "file": "Update 1.2 Uppercrankline and Left Driven Gears.ipt",
       "solid_count": 1,
-      "closed_shells": 1,
-      "healthy": true,
-      "external_references": 0,
-      "facets": 25342,
-      "bed_area_mm2": 650.0820473791517,
-      "unsupported_area_below_44deg_mm2": 0,
-      "unsupported_examples": [],
-      "unchanged_source_hash_matches": null
+      "is_solid": true,
+      "features": [
+        {
+          "name": "Thickness 2 mm",
+          "health": 11778
+        },
+        {
+          "name": "Foam width reduced to 6 mm",
+          "health": 11778
+        }
+      ],
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          28.0,
+          6.000000000000001,
+          2.0
+        ]
+      ],
+      "file": "P4-05 Foam contact pad.ipt"
     },
     {
-      "file": "Update 1.2 Uppercrankline and Right Driven Gears.ipt",
       "solid_count": 1,
-      "closed_shells": 1,
-      "healthy": true,
-      "external_references": 0,
-      "facets": 25220,
-      "bed_area_mm2": 650.082047379151,
-      "unsupported_area_below_44deg_mm2": 0,
-      "unsupported_examples": [],
-      "unchanged_source_hash_matches": null
+      "is_solid": true,
+      "features": [
+        {
+          "name": "Update 1.2 - fused single print solid",
+          "health": 11778
+        },
+        {
+          "name": "Finger thickness reduced to 6 mm",
+          "health": 11778
+        },
+        {
+          "name": "Upward 45 degree finger tip and carrier",
+          "health": 11778
+        },
+        {
+          "name": "Support-free 45 degree bend underside",
+          "health": 11778
+        }
+      ],
+      "bounds_mm": [
+        [
+          -6.0,
+          -6.0,
+          0.0
+        ],
+        [
+          14.999999999999996,
+          58.72891088019209,
+          29.072056630699755
+        ]
+      ],
+      "file": "Update 1.2 Left Finger and Pad Carrier.ipt"
     },
     {
-      "file": "P1-01_Lower_Mounting_Frame.ipt",
       "solid_count": 1,
-      "closed_shells": 1,
-      "healthy": true,
-      "external_references": 0,
-      "facets": 13676,
-      "bed_area_mm2": 4635.407297269528,
-      "unsupported_area_below_44deg_mm2": 0,
-      "unsupported_examples": [],
-      "unchanged_source_hash_matches": null
+      "is_solid": true,
+      "features": [
+        {
+          "name": "Update 1.2 - fused single print solid",
+          "health": 11778
+        },
+        {
+          "name": "Finger thickness reduced to 6 mm",
+          "health": 11778
+        },
+        {
+          "name": "Upward 45 degree finger tip and carrier",
+          "health": 11778
+        },
+        {
+          "name": "Support-free 45 degree bend underside",
+          "health": 11778
+        }
+      ],
+      "bounds_mm": [
+        [
+          -15.0,
+          -6.0,
+          0.0
+        ],
+        [
+          6.000000000000001,
+          58.728910880192096,
+          29.072056630699752
+        ]
+      ],
+      "file": "Update 1.2 Right Finger and Pad Carrier.ipt"
     },
     {
-      "file": "P4-04 Upper axle-support plate.ipt",
       "solid_count": 1,
-      "closed_shells": 1,
-      "healthy": true,
-      "external_references": 0,
-      "facets": 10388,
-      "bed_area_mm2": 4199.618762577079,
-      "unsupported_area_below_44deg_mm2": 0,
-      "unsupported_examples": [],
-      "unchanged_source_hash_matches": null
+      "is_solid": true,
+      "features": [
+        {
+          "name": "Update 1.2 - fused single print solid",
+          "health": 11778
+        },
+        {
+          "name": "Crank cap 25.5 mm - gear mesh clearance",
+          "health": 11778
+        },
+        {
+          "name": "45 degree support-free gear rim - 1.25 mm",
+          "health": 11778
+        },
+        {
+          "name": "Exposed crank face 2.5 mm x 45 degrees",
+          "health": 11778
+        },
+        {
+          "name": "Crank thickness reduced by 1.5 mm",
+          "health": 11778
+        }
+      ],
+      "bounds_mm": [
+        [
+          -13.999999999999996,
+          -13.93232011545907,
+          0.0
+        ],
+        [
+          13.999999999999996,
+          51.00000000000003,
+          8.0
+        ]
+      ],
+      "file": "Update 1.2 Uppercrankline and Left Driven Gears.ipt"
     },
     {
-      "file": "P2-01 Input pinion 18 teeth.ipt",
       "solid_count": 1,
-      "closed_shells": 1,
-      "healthy": true,
-      "external_references": 0,
-      "facets": 14544,
-      "bed_area_mm2": 235.60042218351677,
-      "unsupported_area_below_44deg_mm2": 0,
-      "unsupported_examples": [],
-      "unchanged_source_hash_matches": null
+      "is_solid": true,
+      "features": [
+        {
+          "name": "Update 1.2 - fused single print solid",
+          "health": 11778
+        },
+        {
+          "name": "Crank cap 25.5 mm - gear mesh clearance",
+          "health": 11778
+        },
+        {
+          "name": "45 degree support-free gear rim - 1.25 mm",
+          "health": 11778
+        },
+        {
+          "name": "Exposed crank face 2.5 mm x 45 degrees",
+          "health": 11778
+        },
+        {
+          "name": "Crank thickness reduced by 1.5 mm",
+          "health": 11778
+        }
+      ],
+      "bounds_mm": [
+        [
+          -13.931968878369215,
+          -13.999999999999996,
+          0.0
+        ],
+        [
+          13.931944451581924,
+          51.0,
+          8.000000000000002
+        ]
+      ],
+      "file": "Update 1.2 Uppercrankline and Right Driven Gears.ipt"
+    },
+    {
+      "solid_count": 1,
+      "is_solid": true,
+      "features": [
+        {
+          "name": "Extrusion1",
+          "health": 11778
+        },
+        {
+          "name": "Extrusion2",
+          "health": 11778
+        }
+      ],
+      "bounds_mm": [
+        [
+          -4.000000000000001,
+          0.0,
+          -4.000000000000001
+        ],
+        [
+          4.000000000000001,
+          2.0,
+          4.000000000000001
+        ]
+      ],
+      "file": "UpperPivotSpacer.ipt"
     }
   ],
-  "motion": [
+  "poses": [
     {
-      "width_requested": 75,
-      "width_measured": 75.00000000000017,
-      "healthy": true,
-      "mesh_ratio_errors_deg": [
-        0.0,
-        0.0
+      "command_mm": 15,
+      "updated": true,
+      "unhealthy_constraints": [],
+      "measured_gap_mm": 14.999999999999742,
+      "tip_angles_deg": [
+        44.999999999999886,
+        45.0
       ],
-      "collisions": [
+      "interferences": [
         {
-          "a": "B3B-EH:2",
-          "b": "EHR-3:2",
+          "one": "B3B-EH:2",
+          "two": "EHR-3:2",
           "volume_mm3": 4.054121287586853
         },
         {
-          "a": "B3B-EH:1",
-          "b": "EHR-3:1",
+          "one": "B3B-EH:1",
+          "two": "EHR-3:1",
           "volume_mm3": 4.054121287804696
         },
         {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DC14_A01_INSERT_1:1",
+          "one": "DC11_B01_CASE_B_DUMMY2:1",
+          "two": "DC14_A01_INSERT_1:1",
           "volume_mm3": 11.828314419713562
         },
         {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DX124_SCREW-COVER:1",
+          "one": "DC11_B01_CASE_B_DUMMY2:1",
+          "two": "DX124_SCREW-COVER:1",
           "volume_mm3": 4.858473038776845
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:2",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "B3B-EH:2",
           "volume_mm3": 3.9321600014332896
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:8",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:8",
           "volume_mm3": 42.06644923034481
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:7",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:7",
           "volume_mm3": 42.06644923034491
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:6",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:6",
           "volume_mm3": 42.066449230344745
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:5",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:5",
           "volume_mm3": 42.06644923034488
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:1",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "B3B-EH:1",
           "volume_mm3": 3.932160001433276
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_A01_WIN_LED:1",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "DC11_A01_WIN_LED:1",
           "volume_mm3": 40.60962962962845
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DX124_SCREW-COVER:1",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "DX124_SCREW-COVER:1",
           "volume_mm3": 44.560350198515955
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_B01_CASE_B_DUMMY2:1",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "DC11_B01_CASE_B_DUMMY2:1",
           "volume_mm3": 124.3912223972948
         },
         {
-          "a": "End Effector Platform:1",
-          "b": "N20 stationary motor reference:1",
+          "one": "End Effector Platform:1",
+          "two": "N20 stationary motor reference:1",
           "volume_mm3": 0.6129808276588886
         },
         {
-          "a": "M3 motor shaft set screw",
-          "b": "Motor input pinion 18T",
-          "volume_mm3": 7.403905930797216
-        }
-      ],
-      "supplied_reference_internal_interferences": [
-        {
-          "a": "B3B-EH:2",
-          "b": "EHR-3:2",
-          "volume_mm3": 4.054121287586853
-        },
-        {
-          "a": "B3B-EH:1",
-          "b": "EHR-3:1",
-          "volume_mm3": 4.054121287804696
-        },
-        {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DC14_A01_INSERT_1:1",
-          "volume_mm3": 11.828314419713562
-        },
-        {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DX124_SCREW-COVER:1",
-          "volume_mm3": 4.858473038776845
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:2",
-          "volume_mm3": 3.9321600014332896
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:8",
-          "volume_mm3": 42.06644923034481
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:7",
-          "volume_mm3": 42.06644923034491
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:6",
-          "volume_mm3": 42.066449230344745
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:5",
-          "volume_mm3": 42.06644923034488
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:1",
-          "volume_mm3": 3.932160001433276
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_A01_WIN_LED:1",
-          "volume_mm3": 40.60962962962845
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DX124_SCREW-COVER:1",
-          "volume_mm3": 44.560350198515955
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_B01_CASE_B_DUMMY2:1",
-          "volume_mm3": 124.3912223972948
-        },
-        {
-          "a": "End Effector Platform:1",
-          "b": "N20 stationary motor reference:1",
-          "volume_mm3": 0.6129808276588886
-        }
-      ],
-      "thread_engagement_interferences": [
-        {
-          "a": "M3 motor shaft set screw",
-          "b": "Motor input pinion 18T",
-          "volume_mm3": 7.403905930797216
-        }
-      ],
-      "unexpected_interferences": []
-    },
-    {
-      "width_requested": 70,
-      "width_measured": 69.9999999999998,
-      "healthy": true,
-      "mesh_ratio_errors_deg": [
-        -5.088887490341627e-14,
-        -1.0177774980683254e-13
-      ],
-      "collisions": [
-        {
-          "a": "B3B-EH:2",
-          "b": "EHR-3:2",
-          "volume_mm3": 4.054121287586853
-        },
-        {
-          "a": "B3B-EH:1",
-          "b": "EHR-3:1",
-          "volume_mm3": 4.054121287804696
-        },
-        {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DC14_A01_INSERT_1:1",
-          "volume_mm3": 11.828314419713562
-        },
-        {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DX124_SCREW-COVER:1",
-          "volume_mm3": 4.858473038776845
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:2",
-          "volume_mm3": 3.9321600014332896
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:8",
-          "volume_mm3": 42.06644923034481
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:7",
-          "volume_mm3": 42.06644923034491
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:6",
-          "volume_mm3": 42.066449230344745
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:5",
-          "volume_mm3": 42.06644923034488
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:1",
-          "volume_mm3": 3.932160001433276
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_A01_WIN_LED:1",
-          "volume_mm3": 40.60962962962845
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DX124_SCREW-COVER:1",
-          "volume_mm3": 44.560350198515955
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_B01_CASE_B_DUMMY2:1",
-          "volume_mm3": 124.3912223972948
-        },
-        {
-          "a": "End Effector Platform:1",
-          "b": "N20 stationary motor reference:1",
-          "volume_mm3": 0.6129808276588886
-        },
-        {
-          "a": "M3 motor shaft set screw",
-          "b": "Motor input pinion 18T",
-          "volume_mm3": 7.40390593079722
-        }
-      ],
-      "supplied_reference_internal_interferences": [
-        {
-          "a": "B3B-EH:2",
-          "b": "EHR-3:2",
-          "volume_mm3": 4.054121287586853
-        },
-        {
-          "a": "B3B-EH:1",
-          "b": "EHR-3:1",
-          "volume_mm3": 4.054121287804696
-        },
-        {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DC14_A01_INSERT_1:1",
-          "volume_mm3": 11.828314419713562
-        },
-        {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DX124_SCREW-COVER:1",
-          "volume_mm3": 4.858473038776845
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:2",
-          "volume_mm3": 3.9321600014332896
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:8",
-          "volume_mm3": 42.06644923034481
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:7",
-          "volume_mm3": 42.06644923034491
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:6",
-          "volume_mm3": 42.066449230344745
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:5",
-          "volume_mm3": 42.06644923034488
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:1",
-          "volume_mm3": 3.932160001433276
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_A01_WIN_LED:1",
-          "volume_mm3": 40.60962962962845
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DX124_SCREW-COVER:1",
-          "volume_mm3": 44.560350198515955
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_B01_CASE_B_DUMMY2:1",
-          "volume_mm3": 124.3912223972948
-        },
-        {
-          "a": "End Effector Platform:1",
-          "b": "N20 stationary motor reference:1",
-          "volume_mm3": 0.6129808276588886
-        }
-      ],
-      "thread_engagement_interferences": [
-        {
-          "a": "M3 motor shaft set screw",
-          "b": "Motor input pinion 18T",
-          "volume_mm3": 7.40390593079722
-        }
-      ],
-      "unexpected_interferences": []
-    },
-    {
-      "width_requested": 60,
-      "width_measured": 59.999999999999794,
-      "healthy": true,
-      "mesh_ratio_errors_deg": [
-        -2.5444437451708134e-14,
-        -1.0177774980683254e-13
-      ],
-      "collisions": [
-        {
-          "a": "B3B-EH:2",
-          "b": "EHR-3:2",
-          "volume_mm3": 4.054121287586853
-        },
-        {
-          "a": "B3B-EH:1",
-          "b": "EHR-3:1",
-          "volume_mm3": 4.054121287804696
-        },
-        {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DC14_A01_INSERT_1:1",
-          "volume_mm3": 11.828314419713562
-        },
-        {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DX124_SCREW-COVER:1",
-          "volume_mm3": 4.858473038776845
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:2",
-          "volume_mm3": 3.9321600014332896
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:8",
-          "volume_mm3": 42.06644923034481
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:7",
-          "volume_mm3": 42.06644923034491
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:6",
-          "volume_mm3": 42.066449230344745
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:5",
-          "volume_mm3": 42.06644923034488
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:1",
-          "volume_mm3": 3.932160001433276
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_A01_WIN_LED:1",
-          "volume_mm3": 40.60962962962845
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DX124_SCREW-COVER:1",
-          "volume_mm3": 44.560350198515955
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_B01_CASE_B_DUMMY2:1",
-          "volume_mm3": 124.3912223972948
-        },
-        {
-          "a": "End Effector Platform:1",
-          "b": "N20 stationary motor reference:1",
-          "volume_mm3": 0.6129808276588886
-        },
-        {
-          "a": "M3 motor shaft set screw",
-          "b": "Motor input pinion 18T",
-          "volume_mm3": 7.403905930797264
-        }
-      ],
-      "supplied_reference_internal_interferences": [
-        {
-          "a": "B3B-EH:2",
-          "b": "EHR-3:2",
-          "volume_mm3": 4.054121287586853
-        },
-        {
-          "a": "B3B-EH:1",
-          "b": "EHR-3:1",
-          "volume_mm3": 4.054121287804696
-        },
-        {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DC14_A01_INSERT_1:1",
-          "volume_mm3": 11.828314419713562
-        },
-        {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DX124_SCREW-COVER:1",
-          "volume_mm3": 4.858473038776845
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:2",
-          "volume_mm3": 3.9321600014332896
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:8",
-          "volume_mm3": 42.06644923034481
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:7",
-          "volume_mm3": 42.06644923034491
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:6",
-          "volume_mm3": 42.066449230344745
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:5",
-          "volume_mm3": 42.06644923034488
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:1",
-          "volume_mm3": 3.932160001433276
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_A01_WIN_LED:1",
-          "volume_mm3": 40.60962962962845
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DX124_SCREW-COVER:1",
-          "volume_mm3": 44.560350198515955
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_B01_CASE_B_DUMMY2:1",
-          "volume_mm3": 124.3912223972948
-        },
-        {
-          "a": "End Effector Platform:1",
-          "b": "N20 stationary motor reference:1",
-          "volume_mm3": 0.6129808276588886
-        }
-      ],
-      "thread_engagement_interferences": [
-        {
-          "a": "M3 motor shaft set screw",
-          "b": "Motor input pinion 18T",
-          "volume_mm3": 7.403905930797264
-        }
-      ],
-      "unexpected_interferences": []
-    },
-    {
-      "width_requested": 50,
-      "width_measured": 49.99999999999987,
-      "healthy": true,
-      "mesh_ratio_errors_deg": [
-        -5.088887490341627e-14,
-        -2.0355549961366507e-13
-      ],
-      "collisions": [
-        {
-          "a": "B3B-EH:2",
-          "b": "EHR-3:2",
-          "volume_mm3": 4.054121287586853
-        },
-        {
-          "a": "B3B-EH:1",
-          "b": "EHR-3:1",
-          "volume_mm3": 4.054121287804696
-        },
-        {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DC14_A01_INSERT_1:1",
-          "volume_mm3": 11.828314419713562
-        },
-        {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DX124_SCREW-COVER:1",
-          "volume_mm3": 4.858473038776845
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:2",
-          "volume_mm3": 3.9321600014332896
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:8",
-          "volume_mm3": 42.06644923034481
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:7",
-          "volume_mm3": 42.06644923034491
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:6",
-          "volume_mm3": 42.066449230344745
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:5",
-          "volume_mm3": 42.06644923034488
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:1",
-          "volume_mm3": 3.932160001433276
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_A01_WIN_LED:1",
-          "volume_mm3": 40.60962962962845
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DX124_SCREW-COVER:1",
-          "volume_mm3": 44.560350198515955
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_B01_CASE_B_DUMMY2:1",
-          "volume_mm3": 124.3912223972948
-        },
-        {
-          "a": "End Effector Platform:1",
-          "b": "N20 stationary motor reference:1",
-          "volume_mm3": 0.6129808276588886
+          "one": "End Effector Platform Base:1",
+          "two": "Gripper Motor Cover:1",
+          "volume_mm3": 2.8540575521330707e-05
         },
         {
-          "a": "M3 motor shaft set screw",
-          "b": "Motor input pinion 18T",
+          "one": "M3 motor shaft set screw",
+          "two": "Motor input pinion 18T",
           "volume_mm3": 7.403905930797254
         }
-      ],
-      "supplied_reference_internal_interferences": [
-        {
-          "a": "B3B-EH:2",
-          "b": "EHR-3:2",
-          "volume_mm3": 4.054121287586853
-        },
-        {
-          "a": "B3B-EH:1",
-          "b": "EHR-3:1",
-          "volume_mm3": 4.054121287804696
-        },
-        {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DC14_A01_INSERT_1:1",
-          "volume_mm3": 11.828314419713562
-        },
-        {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DX124_SCREW-COVER:1",
-          "volume_mm3": 4.858473038776845
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:2",
-          "volume_mm3": 3.9321600014332896
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:8",
-          "volume_mm3": 42.06644923034481
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:7",
-          "volume_mm3": 42.06644923034491
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:6",
-          "volume_mm3": 42.066449230344745
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:5",
-          "volume_mm3": 42.06644923034488
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:1",
-          "volume_mm3": 3.932160001433276
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_A01_WIN_LED:1",
-          "volume_mm3": 40.60962962962845
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DX124_SCREW-COVER:1",
-          "volume_mm3": 44.560350198515955
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_B01_CASE_B_DUMMY2:1",
-          "volume_mm3": 124.3912223972948
-        },
-        {
-          "a": "End Effector Platform:1",
-          "b": "N20 stationary motor reference:1",
-          "volume_mm3": 0.6129808276588886
-        }
-      ],
-      "thread_engagement_interferences": [
-        {
-          "a": "M3 motor shaft set screw",
-          "b": "Motor input pinion 18T",
-          "volume_mm3": 7.403905930797254
-        }
-      ],
-      "unexpected_interferences": []
+      ]
     },
     {
-      "width_requested": 40,
-      "width_measured": 39.99999999999997,
-      "healthy": true,
-      "mesh_ratio_errors_deg": [
-        -2.5444437451708134e-14,
-        -2.0355549961366507e-13
+      "command_mm": 20,
+      "updated": true,
+      "unhealthy_constraints": [],
+      "measured_gap_mm": 19.999999999999723,
+      "tip_angles_deg": [
+        44.999999999999886,
+        45.0
       ],
-      "collisions": [
+      "interferences": [
         {
-          "a": "B3B-EH:2",
-          "b": "EHR-3:2",
+          "one": "B3B-EH:2",
+          "two": "EHR-3:2",
           "volume_mm3": 4.054121287586853
         },
         {
-          "a": "B3B-EH:1",
-          "b": "EHR-3:1",
+          "one": "B3B-EH:1",
+          "two": "EHR-3:1",
           "volume_mm3": 4.054121287804696
         },
         {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DC14_A01_INSERT_1:1",
+          "one": "DC11_B01_CASE_B_DUMMY2:1",
+          "two": "DC14_A01_INSERT_1:1",
           "volume_mm3": 11.828314419713562
         },
         {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DX124_SCREW-COVER:1",
+          "one": "DC11_B01_CASE_B_DUMMY2:1",
+          "two": "DX124_SCREW-COVER:1",
           "volume_mm3": 4.858473038776845
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:2",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "B3B-EH:2",
           "volume_mm3": 3.9321600014332896
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:8",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:8",
           "volume_mm3": 42.06644923034481
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:7",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:7",
           "volume_mm3": 42.06644923034491
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:6",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:6",
           "volume_mm3": 42.066449230344745
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:5",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:5",
           "volume_mm3": 42.06644923034488
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:1",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "B3B-EH:1",
           "volume_mm3": 3.932160001433276
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_A01_WIN_LED:1",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "DC11_A01_WIN_LED:1",
           "volume_mm3": 40.60962962962845
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DX124_SCREW-COVER:1",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "DX124_SCREW-COVER:1",
           "volume_mm3": 44.560350198515955
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_B01_CASE_B_DUMMY2:1",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "DC11_B01_CASE_B_DUMMY2:1",
           "volume_mm3": 124.3912223972948
         },
         {
-          "a": "End Effector Platform:1",
-          "b": "N20 stationary motor reference:1",
+          "one": "End Effector Platform:1",
+          "two": "N20 stationary motor reference:1",
           "volume_mm3": 0.6129808276588886
         },
         {
-          "a": "M3 motor shaft set screw",
-          "b": "Motor input pinion 18T",
-          "volume_mm3": 7.403905930797247
+          "one": "End Effector Platform Base:1",
+          "two": "Gripper Motor Cover:1",
+          "volume_mm3": 2.8540575521330707e-05
+        },
+        {
+          "one": "M3 motor shaft set screw",
+          "two": "Motor input pinion 18T",
+          "volume_mm3": 7.40390593079722
         }
-      ],
-      "supplied_reference_internal_interferences": [
-        {
-          "a": "B3B-EH:2",
-          "b": "EHR-3:2",
-          "volume_mm3": 4.054121287586853
-        },
-        {
-          "a": "B3B-EH:1",
-          "b": "EHR-3:1",
-          "volume_mm3": 4.054121287804696
-        },
-        {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DC14_A01_INSERT_1:1",
-          "volume_mm3": 11.828314419713562
-        },
-        {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DX124_SCREW-COVER:1",
-          "volume_mm3": 4.858473038776845
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:2",
-          "volume_mm3": 3.9321600014332896
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:8",
-          "volume_mm3": 42.06644923034481
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:7",
-          "volume_mm3": 42.06644923034491
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:6",
-          "volume_mm3": 42.066449230344745
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:5",
-          "volume_mm3": 42.06644923034488
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:1",
-          "volume_mm3": 3.932160001433276
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_A01_WIN_LED:1",
-          "volume_mm3": 40.60962962962845
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DX124_SCREW-COVER:1",
-          "volume_mm3": 44.560350198515955
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_B01_CASE_B_DUMMY2:1",
-          "volume_mm3": 124.3912223972948
-        },
-        {
-          "a": "End Effector Platform:1",
-          "b": "N20 stationary motor reference:1",
-          "volume_mm3": 0.6129808276588886
-        }
-      ],
-      "thread_engagement_interferences": [
-        {
-          "a": "M3 motor shaft set screw",
-          "b": "Motor input pinion 18T",
-          "volume_mm3": 7.403905930797247
-        }
-      ],
-      "unexpected_interferences": []
+      ]
     },
     {
-      "width_requested": 30,
-      "width_measured": 29.99999999999988,
-      "healthy": true,
-      "mesh_ratio_errors_deg": [
-        -1.0177774980683254e-13,
-        -3.3077768687220577e-13
+      "command_mm": 30,
+      "updated": true,
+      "unhealthy_constraints": [],
+      "measured_gap_mm": 29.999999999999837,
+      "tip_angles_deg": [
+        44.99999999999988,
+        45.00000000000003
       ],
-      "collisions": [
+      "interferences": [
         {
-          "a": "B3B-EH:2",
-          "b": "EHR-3:2",
+          "one": "B3B-EH:2",
+          "two": "EHR-3:2",
           "volume_mm3": 4.054121287586853
         },
         {
-          "a": "B3B-EH:1",
-          "b": "EHR-3:1",
+          "one": "B3B-EH:1",
+          "two": "EHR-3:1",
           "volume_mm3": 4.054121287804696
         },
         {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DC14_A01_INSERT_1:1",
+          "one": "DC11_B01_CASE_B_DUMMY2:1",
+          "two": "DC14_A01_INSERT_1:1",
           "volume_mm3": 11.828314419713562
         },
         {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DX124_SCREW-COVER:1",
+          "one": "DC11_B01_CASE_B_DUMMY2:1",
+          "two": "DX124_SCREW-COVER:1",
           "volume_mm3": 4.858473038776845
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:2",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "B3B-EH:2",
           "volume_mm3": 3.9321600014332896
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:8",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:8",
           "volume_mm3": 42.06644923034481
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:7",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:7",
           "volume_mm3": 42.06644923034491
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:6",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:6",
           "volume_mm3": 42.066449230344745
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:5",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:5",
           "volume_mm3": 42.06644923034488
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:1",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "B3B-EH:1",
           "volume_mm3": 3.932160001433276
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_A01_WIN_LED:1",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "DC11_A01_WIN_LED:1",
           "volume_mm3": 40.60962962962845
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DX124_SCREW-COVER:1",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "DX124_SCREW-COVER:1",
           "volume_mm3": 44.560350198515955
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_B01_CASE_B_DUMMY2:1",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "DC11_B01_CASE_B_DUMMY2:1",
           "volume_mm3": 124.3912223972948
         },
         {
-          "a": "End Effector Platform:1",
-          "b": "N20 stationary motor reference:1",
+          "one": "End Effector Platform:1",
+          "two": "N20 stationary motor reference:1",
           "volume_mm3": 0.6129808276588886
         },
         {
-          "a": "M3 motor shaft set screw",
-          "b": "Motor input pinion 18T",
-          "volume_mm3": 7.403905930797258
+          "one": "End Effector Platform Base:1",
+          "two": "Gripper Motor Cover:1",
+          "volume_mm3": 2.8540575521330707e-05
+        },
+        {
+          "one": "M3 motor shaft set screw",
+          "two": "Motor input pinion 18T",
+          "volume_mm3": 7.403905930797223
         }
-      ],
-      "supplied_reference_internal_interferences": [
-        {
-          "a": "B3B-EH:2",
-          "b": "EHR-3:2",
-          "volume_mm3": 4.054121287586853
-        },
-        {
-          "a": "B3B-EH:1",
-          "b": "EHR-3:1",
-          "volume_mm3": 4.054121287804696
-        },
-        {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DC14_A01_INSERT_1:1",
-          "volume_mm3": 11.828314419713562
-        },
-        {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DX124_SCREW-COVER:1",
-          "volume_mm3": 4.858473038776845
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:2",
-          "volume_mm3": 3.9321600014332896
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:8",
-          "volume_mm3": 42.06644923034481
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:7",
-          "volume_mm3": 42.06644923034491
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:6",
-          "volume_mm3": 42.066449230344745
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:5",
-          "volume_mm3": 42.06644923034488
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:1",
-          "volume_mm3": 3.932160001433276
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_A01_WIN_LED:1",
-          "volume_mm3": 40.60962962962845
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DX124_SCREW-COVER:1",
-          "volume_mm3": 44.560350198515955
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_B01_CASE_B_DUMMY2:1",
-          "volume_mm3": 124.3912223972948
-        },
-        {
-          "a": "End Effector Platform:1",
-          "b": "N20 stationary motor reference:1",
-          "volume_mm3": 0.6129808276588886
-        }
-      ],
-      "thread_engagement_interferences": [
-        {
-          "a": "M3 motor shaft set screw",
-          "b": "Motor input pinion 18T",
-          "volume_mm3": 7.403905930797258
-        }
-      ],
-      "unexpected_interferences": []
+      ]
     },
     {
-      "width_requested": 20,
-      "width_measured": 19.999999999999815,
-      "healthy": true,
-      "mesh_ratio_errors_deg": [
-        -1.7811106216195694e-13,
-        -4.834443115824545e-13
+      "command_mm": 40,
+      "updated": true,
+      "unhealthy_constraints": [],
+      "measured_gap_mm": 39.99999999999978,
+      "tip_angles_deg": [
+        44.99999999999988,
+        45.0
       ],
-      "collisions": [
+      "interferences": [
         {
-          "a": "B3B-EH:2",
-          "b": "EHR-3:2",
+          "one": "B3B-EH:2",
+          "two": "EHR-3:2",
           "volume_mm3": 4.054121287586853
         },
         {
-          "a": "B3B-EH:1",
-          "b": "EHR-3:1",
+          "one": "B3B-EH:1",
+          "two": "EHR-3:1",
           "volume_mm3": 4.054121287804696
         },
         {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DC14_A01_INSERT_1:1",
+          "one": "DC11_B01_CASE_B_DUMMY2:1",
+          "two": "DC14_A01_INSERT_1:1",
           "volume_mm3": 11.828314419713562
         },
         {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DX124_SCREW-COVER:1",
+          "one": "DC11_B01_CASE_B_DUMMY2:1",
+          "two": "DX124_SCREW-COVER:1",
           "volume_mm3": 4.858473038776845
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:2",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "B3B-EH:2",
           "volume_mm3": 3.9321600014332896
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:8",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:8",
           "volume_mm3": 42.06644923034481
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:7",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:7",
           "volume_mm3": 42.06644923034491
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:6",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:6",
           "volume_mm3": 42.066449230344745
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:5",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:5",
           "volume_mm3": 42.06644923034488
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:1",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "B3B-EH:1",
           "volume_mm3": 3.932160001433276
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_A01_WIN_LED:1",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "DC11_A01_WIN_LED:1",
           "volume_mm3": 40.60962962962845
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DX124_SCREW-COVER:1",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "DX124_SCREW-COVER:1",
           "volume_mm3": 44.560350198515955
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_B01_CASE_B_DUMMY2:1",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "DC11_B01_CASE_B_DUMMY2:1",
           "volume_mm3": 124.3912223972948
         },
         {
-          "a": "End Effector Platform:1",
-          "b": "N20 stationary motor reference:1",
+          "one": "End Effector Platform:1",
+          "two": "N20 stationary motor reference:1",
           "volume_mm3": 0.6129808276588886
         },
         {
-          "a": "M3 motor shaft set screw",
-          "b": "Motor input pinion 18T",
-          "volume_mm3": 7.403905930797226
+          "one": "End Effector Platform Base:1",
+          "two": "Gripper Motor Cover:1",
+          "volume_mm3": 2.8540575521330707e-05
+        },
+        {
+          "one": "M3 motor shaft set screw",
+          "two": "Motor input pinion 18T",
+          "volume_mm3": 7.403905930797251
         }
-      ],
-      "supplied_reference_internal_interferences": [
-        {
-          "a": "B3B-EH:2",
-          "b": "EHR-3:2",
-          "volume_mm3": 4.054121287586853
-        },
-        {
-          "a": "B3B-EH:1",
-          "b": "EHR-3:1",
-          "volume_mm3": 4.054121287804696
-        },
-        {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DC14_A01_INSERT_1:1",
-          "volume_mm3": 11.828314419713562
-        },
-        {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DX124_SCREW-COVER:1",
-          "volume_mm3": 4.858473038776845
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:2",
-          "volume_mm3": 3.9321600014332896
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:8",
-          "volume_mm3": 42.06644923034481
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:7",
-          "volume_mm3": 42.06644923034491
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:6",
-          "volume_mm3": 42.066449230344745
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:5",
-          "volume_mm3": 42.06644923034488
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:1",
-          "volume_mm3": 3.932160001433276
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_A01_WIN_LED:1",
-          "volume_mm3": 40.60962962962845
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DX124_SCREW-COVER:1",
-          "volume_mm3": 44.560350198515955
-        },
-        {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_B01_CASE_B_DUMMY2:1",
-          "volume_mm3": 124.3912223972948
-        },
-        {
-          "a": "End Effector Platform:1",
-          "b": "N20 stationary motor reference:1",
-          "volume_mm3": 0.6129808276588886
-        }
-      ],
-      "thread_engagement_interferences": [
-        {
-          "a": "M3 motor shaft set screw",
-          "b": "Motor input pinion 18T",
-          "volume_mm3": 7.403905930797226
-        }
-      ],
-      "unexpected_interferences": []
+      ]
     },
     {
-      "width_requested": 15,
-      "width_measured": 14.999999999999991,
-      "healthy": true,
-      "mesh_ratio_errors_deg": [
-        -2.5444437451708134e-13,
-        -6.106664988409952e-13
+      "command_mm": 50,
+      "updated": true,
+      "unhealthy_constraints": [],
+      "measured_gap_mm": 49.999999999999616,
+      "tip_angles_deg": [
+        44.999999999999886,
+        45.00000000000003
       ],
-      "collisions": [
+      "interferences": [
         {
-          "a": "B3B-EH:2",
-          "b": "EHR-3:2",
+          "one": "B3B-EH:2",
+          "two": "EHR-3:2",
           "volume_mm3": 4.054121287586853
         },
         {
-          "a": "B3B-EH:1",
-          "b": "EHR-3:1",
+          "one": "B3B-EH:1",
+          "two": "EHR-3:1",
           "volume_mm3": 4.054121287804696
         },
         {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DC14_A01_INSERT_1:1",
+          "one": "DC11_B01_CASE_B_DUMMY2:1",
+          "two": "DC14_A01_INSERT_1:1",
           "volume_mm3": 11.828314419713562
         },
         {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DX124_SCREW-COVER:1",
+          "one": "DC11_B01_CASE_B_DUMMY2:1",
+          "two": "DX124_SCREW-COVER:1",
           "volume_mm3": 4.858473038776845
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:2",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "B3B-EH:2",
           "volume_mm3": 3.9321600014332896
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:8",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:8",
           "volume_mm3": 42.06644923034481
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:7",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:7",
           "volume_mm3": 42.06644923034491
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:6",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:6",
           "volume_mm3": 42.066449230344745
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:5",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:5",
           "volume_mm3": 42.06644923034488
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:1",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "B3B-EH:1",
           "volume_mm3": 3.932160001433276
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_A01_WIN_LED:1",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "DC11_A01_WIN_LED:1",
           "volume_mm3": 40.60962962962845
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DX124_SCREW-COVER:1",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "DX124_SCREW-COVER:1",
           "volume_mm3": 44.560350198515955
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_B01_CASE_B_DUMMY2:1",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "DC11_B01_CASE_B_DUMMY2:1",
           "volume_mm3": 124.3912223972948
         },
         {
-          "a": "End Effector Platform:1",
-          "b": "N20 stationary motor reference:1",
+          "one": "End Effector Platform:1",
+          "two": "N20 stationary motor reference:1",
           "volume_mm3": 0.6129808276588886
         },
         {
-          "a": "M3 motor shaft set screw",
-          "b": "Motor input pinion 18T",
-          "volume_mm3": 7.403905930797258
-        }
-      ],
-      "supplied_reference_internal_interferences": [
+          "one": "End Effector Platform Base:1",
+          "two": "Gripper Motor Cover:1",
+          "volume_mm3": 2.8540575521330707e-05
+        },
         {
-          "a": "B3B-EH:2",
-          "b": "EHR-3:2",
+          "one": "M3 motor shaft set screw",
+          "two": "Motor input pinion 18T",
+          "volume_mm3": 7.4039059307972295
+        }
+      ]
+    },
+    {
+      "command_mm": 60,
+      "updated": true,
+      "unhealthy_constraints": [],
+      "measured_gap_mm": 59.99999999999966,
+      "tip_angles_deg": [
+        44.999999999999886,
+        45.00000000000003
+      ],
+      "interferences": [
+        {
+          "one": "B3B-EH:2",
+          "two": "EHR-3:2",
           "volume_mm3": 4.054121287586853
         },
         {
-          "a": "B3B-EH:1",
-          "b": "EHR-3:1",
+          "one": "B3B-EH:1",
+          "two": "EHR-3:1",
           "volume_mm3": 4.054121287804696
         },
         {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DC14_A01_INSERT_1:1",
+          "one": "DC11_B01_CASE_B_DUMMY2:1",
+          "two": "DC14_A01_INSERT_1:1",
           "volume_mm3": 11.828314419713562
         },
         {
-          "a": "DC11_B01_CASE_B_DUMMY2:1",
-          "b": "DX124_SCREW-COVER:1",
+          "one": "DC11_B01_CASE_B_DUMMY2:1",
+          "two": "DX124_SCREW-COVER:1",
           "volume_mm3": 4.858473038776845
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:2",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "B3B-EH:2",
           "volume_mm3": 3.9321600014332896
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:8",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:8",
           "volume_mm3": 42.06644923034481
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:7",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:7",
           "volume_mm3": 42.06644923034491
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:6",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:6",
           "volume_mm3": 42.066449230344745
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "PHS_M2_5X12_K:5",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:5",
           "volume_mm3": 42.06644923034488
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "B3B-EH:1",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "B3B-EH:1",
           "volume_mm3": 3.932160001433276
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_A01_WIN_LED:1",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "DC11_A01_WIN_LED:1",
           "volume_mm3": 40.60962962962845
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DX124_SCREW-COVER:1",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "DX124_SCREW-COVER:1",
           "volume_mm3": 44.560350198515955
         },
         {
-          "a": "DC11_B01_CASE_M_DUMMY:1",
-          "b": "DC11_B01_CASE_B_DUMMY2:1",
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "DC11_B01_CASE_B_DUMMY2:1",
           "volume_mm3": 124.3912223972948
         },
         {
-          "a": "End Effector Platform:1",
-          "b": "N20 stationary motor reference:1",
+          "one": "End Effector Platform:1",
+          "two": "N20 stationary motor reference:1",
           "volume_mm3": 0.6129808276588886
-        }
-      ],
-      "thread_engagement_interferences": [
+        },
         {
-          "a": "M3 motor shaft set screw",
-          "b": "Motor input pinion 18T",
-          "volume_mm3": 7.403905930797258
+          "one": "End Effector Platform Base:1",
+          "two": "Gripper Motor Cover:1",
+          "volume_mm3": 2.8540575521330707e-05
+        },
+        {
+          "one": "M3 motor shaft set screw",
+          "two": "Motor input pinion 18T",
+          "volume_mm3": 7.403905930797216
         }
+      ]
+    },
+    {
+      "command_mm": 70,
+      "updated": true,
+      "unhealthy_constraints": [],
+      "measured_gap_mm": 69.99999999999962,
+      "tip_angles_deg": [
+        44.999999999999886,
+        44.99999999999998
       ],
-      "unexpected_interferences": []
+      "interferences": [
+        {
+          "one": "B3B-EH:2",
+          "two": "EHR-3:2",
+          "volume_mm3": 4.054121287586853
+        },
+        {
+          "one": "B3B-EH:1",
+          "two": "EHR-3:1",
+          "volume_mm3": 4.054121287804696
+        },
+        {
+          "one": "DC11_B01_CASE_B_DUMMY2:1",
+          "two": "DC14_A01_INSERT_1:1",
+          "volume_mm3": 11.828314419713562
+        },
+        {
+          "one": "DC11_B01_CASE_B_DUMMY2:1",
+          "two": "DX124_SCREW-COVER:1",
+          "volume_mm3": 4.858473038776845
+        },
+        {
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "B3B-EH:2",
+          "volume_mm3": 3.9321600014332896
+        },
+        {
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:8",
+          "volume_mm3": 42.06644923034481
+        },
+        {
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:7",
+          "volume_mm3": 42.06644923034491
+        },
+        {
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:6",
+          "volume_mm3": 42.066449230344745
+        },
+        {
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:5",
+          "volume_mm3": 42.06644923034488
+        },
+        {
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "B3B-EH:1",
+          "volume_mm3": 3.932160001433276
+        },
+        {
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "DC11_A01_WIN_LED:1",
+          "volume_mm3": 40.60962962962845
+        },
+        {
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "DX124_SCREW-COVER:1",
+          "volume_mm3": 44.560350198515955
+        },
+        {
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "DC11_B01_CASE_B_DUMMY2:1",
+          "volume_mm3": 124.3912223972948
+        },
+        {
+          "one": "End Effector Platform:1",
+          "two": "N20 stationary motor reference:1",
+          "volume_mm3": 0.6129808276588886
+        },
+        {
+          "one": "End Effector Platform Base:1",
+          "two": "Gripper Motor Cover:1",
+          "volume_mm3": 2.8540575521330707e-05
+        },
+        {
+          "one": "M3 motor shaft set screw",
+          "two": "Motor input pinion 18T",
+          "volume_mm3": 7.403905930797233
+        }
+      ]
+    },
+    {
+      "command_mm": 75,
+      "updated": true,
+      "unhealthy_constraints": [],
+      "measured_gap_mm": 74.99999999999955,
+      "tip_angles_deg": [
+        44.999999999999886,
+        44.99999999999999
+      ],
+      "interferences": [
+        {
+          "one": "B3B-EH:2",
+          "two": "EHR-3:2",
+          "volume_mm3": 4.054121287586853
+        },
+        {
+          "one": "B3B-EH:1",
+          "two": "EHR-3:1",
+          "volume_mm3": 4.054121287804696
+        },
+        {
+          "one": "DC11_B01_CASE_B_DUMMY2:1",
+          "two": "DC14_A01_INSERT_1:1",
+          "volume_mm3": 11.828314419713562
+        },
+        {
+          "one": "DC11_B01_CASE_B_DUMMY2:1",
+          "two": "DX124_SCREW-COVER:1",
+          "volume_mm3": 4.858473038776845
+        },
+        {
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "B3B-EH:2",
+          "volume_mm3": 3.9321600014332896
+        },
+        {
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:8",
+          "volume_mm3": 42.06644923034481
+        },
+        {
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:7",
+          "volume_mm3": 42.06644923034491
+        },
+        {
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:6",
+          "volume_mm3": 42.066449230344745
+        },
+        {
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "PHS_M2_5X12_K:5",
+          "volume_mm3": 42.06644923034488
+        },
+        {
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "B3B-EH:1",
+          "volume_mm3": 3.932160001433276
+        },
+        {
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "DC11_A01_WIN_LED:1",
+          "volume_mm3": 40.60962962962845
+        },
+        {
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "DX124_SCREW-COVER:1",
+          "volume_mm3": 44.560350198515955
+        },
+        {
+          "one": "DC11_B01_CASE_M_DUMMY:1",
+          "two": "DC11_B01_CASE_B_DUMMY2:1",
+          "volume_mm3": 124.3912223972948
+        },
+        {
+          "one": "End Effector Platform:1",
+          "two": "N20 stationary motor reference:1",
+          "volume_mm3": 0.6129808276588886
+        },
+        {
+          "one": "End Effector Platform Base:1",
+          "two": "Gripper Motor Cover:1",
+          "volume_mm3": 2.8540575521330707e-05
+        },
+        {
+          "one": "M3 motor shaft set screw",
+          "two": "Motor input pinion 18T",
+          "volume_mm3": 7.403905930797251
+        }
+      ]
     }
   ],
-  "references": [
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\Hardware\\M3x4 grub screw.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\Hardware\\N20 rotating output shaft reference.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\Hardware\\M3 hex nut.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\Hardware\\M3 washer 0.5mm.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\Hardware\\M3x10 countersunk screw.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\ReferencePlatform\\End Effector Platform - rotating shaft reference.iam",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\ReferencePlatform\\N20 stationary motor reference.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\ReferencePlatform\\Quanser QUARC EE Board.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\ReferencePlatform\\End Effector Platform Body.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\ReferencePlatform\\XC-430_idle v3.iam",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\ReferencePlatform\\EHR-3.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\ReferencePlatform\\B3B-EH.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\ReferencePlatform\\PHS_M2_5X12_K.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\ReferencePlatform\\M_DC11_A01_HORN_ASM.iam",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\ReferencePlatform\\DC11_A01_HORN_INSERT_1.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\ReferencePlatform\\FHS_M2_5X06_NYLOK.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\ReferencePlatform\\M_DC11_A01_HORN.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\ReferencePlatform\\DC14_A01_INSERT_1.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\ReferencePlatform\\DC11_A01_WIN_LED.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\ReferencePlatform\\DX124_SCREW-COVER.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\ReferencePlatform\\DC11_B01_CASE_B_DUMMY2.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\ReferencePlatform\\DC11_B01_CASE_F_DUMMY.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\ReferencePlatform\\DC11_B01_CASE_M_DUMMY.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\ReferencePlatform\\Gripper Motor Cover.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\ReferencePlatform\\End Effector Platform.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\ReferencePlatform\\End Effector Platform Compartment Lid.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\ReferencePlatform\\End Effector Platform Base.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\Hardware\\M3 nyloc nut.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\Hardware\\M3x20 socket screw.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\Hardware\\Pivot sleeve 4OD 3.2ID x13.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\P4-05 Foam contact pad.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\Update 1.2 Right Finger and Pad Carrier.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\LowerPivotSpacer.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\LowerFollowerLink.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\Update 1.2 Uppercrankline and Right Driven Gears.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\Update 1.2 Left Finger and Pad Carrier.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\Update 1.2 Uppercrankline and Left Driven Gears.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\P2-01 Input pinion 18 teeth.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\Hardware\\Pivot sleeve 4OD 3.2ID x14.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\UpperPivotSpacer.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\P1-02 Design Study Structural Pillar.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\P4-04 Upper axle-support plate.ipt",
-      "local": true,
-      "missing": false
-    },
-    {
-      "path": "C:\\Users\\anshi\\Desktop\\school\\1P13\\Design Studio\\proj1 cad1\\finalparts\\P1-01_Lower_Mounting_Frame.ipt",
-      "local": true,
-      "missing": false
-    }
-  ],
+  "constraints": 214,
   "occurrences": 73,
-  "constraints": 214
+  "external_references": [],
+  "meshes": [
+    {
+      "file": "LowerFollowerLink.stl",
+      "watertight": true,
+      "components": 1,
+      "triangles": 676,
+      "bounds_mm": [
+        [
+          -5.000000000000004,
+          0.0,
+          0.0
+        ],
+        [
+          4.999999999999998,
+          55.00000000000001,
+          3.5000000000000004
+        ]
+      ],
+      "volume_mm3": 1748.189022180208,
+      "unsupported_area_below_44deg_mm2": 0.0
+    },
+    {
+      "file": "LowerPivotSpacer.stl",
+      "watertight": true,
+      "components": 1,
+      "triangles": 440,
+      "bounds_mm": [
+        [
+          -4.0,
+          -3.9987567280032654,
+          0.0
+        ],
+        [
+          3.9950276848756894,
+          3.9987567280032654,
+          4.5
+        ]
+      ],
+      "volume_mm3": 160.665296988295,
+      "unsupported_area_below_44deg_mm2": 0.0
+    },
+    {
+      "file": "P1-01_Lower_Mounting_Frame.stl",
+      "watertight": true,
+      "components": 1,
+      "triangles": 2924,
+      "bounds_mm": [
+        [
+          -20.0,
+          -54.0,
+          0.0
+        ],
+        [
+          46.00000000000001,
+          26.0,
+          3.0000000000000004
+        ]
+      ],
+      "volume_mm3": 13802.206468250166,
+      "unsupported_area_below_44deg_mm2": 0.0
+    },
+    {
+      "file": "P1-02 Design Study Structural Pillar.stl",
+      "watertight": true,
+      "components": 1,
+      "triangles": 416,
+      "bounds_mm": [
+        [
+          -4.0,
+          -3.9987567280032654,
+          0.0
+        ],
+        [
+          3.9950276848756894,
+          3.9987567280032654,
+          11.0
+        ]
+      ],
+      "volume_mm3": 452.42578112300794,
+      "unsupported_area_below_44deg_mm2": 0.0
+    },
+    {
+      "file": "P2-01 Input pinion 18 teeth.stl",
+      "watertight": true,
+      "components": 1,
+      "triangles": 3142,
+      "bounds_mm": [
+        [
+          -9.999547877917168,
+          -9.893601488753633,
+          0.0
+        ],
+        [
+          9.999547877917168,
+          9.893601488753633,
+          8.000000000000002
+        ]
+      ],
+      "volume_mm3": 1468.1903240846757,
+      "unsupported_area_below_44deg_mm2": 0.0
+    },
+    {
+      "file": "P4-04 Upper axle-support plate.stl",
+      "watertight": true,
+      "components": 1,
+      "triangles": 2148,
+      "bounds_mm": [
+        [
+          -20.0,
+          -26.0,
+          0.0
+        ],
+        [
+          46.0,
+          54.0,
+          2.0
+        ]
+      ],
+      "volume_mm3": 8400.227566522617,
+      "unsupported_area_below_44deg_mm2": 0.0
+    },
+    {
+      "file": "Update 1.2 Left Finger and Pad Carrier.stl",
+      "watertight": true,
+      "components": 1,
+      "triangles": 448,
+      "bounds_mm": [
+        [
+          -6.0,
+          -6.0,
+          0.0
+        ],
+        [
+          14.999999999999993,
+          58.72891088019209,
+          29.072056630699752
+        ]
+      ],
+      "volume_mm3": 5888.581194939659,
+      "unsupported_area_below_44deg_mm2": 0.0
+    },
+    {
+      "file": "Update 1.2 Right Finger and Pad Carrier.stl",
+      "watertight": true,
+      "components": 1,
+      "triangles": 448,
+      "bounds_mm": [
+        [
+          -15.0,
+          -6.0,
+          0.0
+        ],
+        [
+          6.0,
+          58.72891088019209,
+          29.072056630699752
+        ]
+      ],
+      "volume_mm3": 5888.581194939653,
+      "unsupported_area_below_44deg_mm2": 0.0
+    },
+    {
+      "file": "Update 1.2 Uppercrankline and Left Driven Gears.stl",
+      "watertight": true,
+      "components": 1,
+      "triangles": 5618,
+      "bounds_mm": [
+        [
+          -13.999623421801296,
+          -51.00000000000002,
+          0.0
+        ],
+        [
+          13.999623421801296,
+          13.931688844693056,
+          8.0
+        ]
+      ],
+      "volume_mm3": 4725.649168483237,
+      "unsupported_area_below_44deg_mm2": 0.0
+    },
+    {
+      "file": "Update 1.2 Uppercrankline and Right Driven Gears.stl",
+      "watertight": true,
+      "components": 1,
+      "triangles": 5634,
+      "bounds_mm": [
+        [
+          -13.931688844693058,
+          -51.0,
+          0.0
+        ],
+        [
+          13.931688844693058,
+          13.999623421801296,
+          8.0
+        ]
+      ],
+      "volume_mm3": 4725.612944175754,
+      "unsupported_area_below_44deg_mm2": 0.0
+    },
+    {
+      "file": "UpperPivotSpacer.stl",
+      "watertight": true,
+      "components": 1,
+      "triangles": 440,
+      "bounds_mm": [
+        [
+          -4.000000000000001,
+          -3.998756728003266,
+          0.0
+        ],
+        [
+          3.99502768487569,
+          3.998756728003266,
+          2.0
+        ]
+      ],
+      "volume_mm3": 71.38519514658356,
+      "unsupported_area_below_44deg_mm2": 0.0
+    }
+  ],
+  "interface_report": "interface-validation.json",
+  "physical_test_performed": false
 }

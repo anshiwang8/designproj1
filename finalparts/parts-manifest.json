@@ -1,142 +1,176 @@
 [
   {
     "file": "LowerFollowerLink.ipt",
-    "changed": false,
-    "changes": "",
+    "changed": true,
+    "changes": "Thickness reduced from 4 to 3.5 mm; 45 mm pivot spacing and 4.3 mm bearing holes retained.",
     "quantity": 2,
     "print_orientation": "Broad flat face down; native Y=0 on bed",
     "category": "3D print",
     "source_sha256": "b8a0581b11c399f031c6f8b9d1f72c25b63f1a84769079fd765e6b38ee70ca0a",
-    "final_sha256": "b8a0581b11c399f031c6f8b9d1f72c25b63f1a84769079fd765e6b38ee70ca0a"
+    "final_sha256": "152d32321e343f319760ebaed98d0b2c7fba0609e7757a9dd27c5eeb0e94f8a0",
+    "previous_package_sha256": "b8a0581b11c399f031c6f8b9d1f72c25b63f1a84769079fd765e6b38ee70ca0a",
+    "changed_since_2026_11_03": true
   },
   {
     "file": "LowerPivotSpacer.ipt",
-    "changed": false,
-    "changes": "",
+    "changed": true,
+    "changes": "Length reduced from 5.5 to 4.5 mm; bearing bore retained.",
     "quantity": 2,
     "print_orientation": "Annular end down; native Y=0 on bed",
     "category": "3D print",
     "source_sha256": "053e99ba7a11afdf8324119d0d4d65422770ebb93dc29de0da0379ab04f23242",
-    "final_sha256": "053e99ba7a11afdf8324119d0d4d65422770ebb93dc29de0da0379ab04f23242"
+    "final_sha256": "b805951c282d22e07d61bf678359eaa38ab387b8e7ad07b2591b143320353148",
+    "previous_package_sha256": "053e99ba7a11afdf8324119d0d4d65422770ebb93dc29de0da0379ab04f23242",
+    "changed_since_2026_11_03": true
   },
   {
     "file": "UpperPivotSpacer.ipt",
-    "changed": false,
-    "changes": "",
+    "changed": true,
+    "changes": "Length reduced from 3.5 to 2 mm; bearing bore retained.",
     "quantity": 4,
     "print_orientation": "Annular end down; native Y=0 on bed",
     "category": "3D print",
     "source_sha256": "1205d6212d434c4c8a68e671af2a38e6dad37eebe1637164b3c630e8a08d424c",
-    "final_sha256": "1205d6212d434c4c8a68e671af2a38e6dad37eebe1637164b3c630e8a08d424c"
+    "final_sha256": "281ac741279ecc40a9e71b96975f25b077a216d36587dfe990c30353a09cfe20",
+    "previous_package_sha256": "1205d6212d434c4c8a68e671af2a38e6dad37eebe1637164b3c630e8a08d424c",
+    "changed_since_2026_11_03": true
   },
   {
     "file": "P1-02 Design Study Structural Pillar.ipt",
-    "changed": false,
-    "changes": "",
+    "changed": true,
+    "changes": "Length reduced from 14 to 11 mm; M3 clearance bore retained.",
     "quantity": 3,
     "print_orientation": "Annular end down; native Y=0 on bed",
     "category": "3D print",
     "source_sha256": "777a8f89ea0b594ec0612ac00fd2e8884cb8f9218e9ec023d2618642046a7c2c",
-    "final_sha256": "777a8f89ea0b594ec0612ac00fd2e8884cb8f9218e9ec023d2618642046a7c2c"
+    "final_sha256": "3a9a16823fbaae0a87909fb7bf3818587674cb95fcd008caea233393d0f74dc8",
+    "previous_package_sha256": "777a8f89ea0b594ec0612ac00fd2e8884cb8f9218e9ec023d2618642046a7c2c",
+    "changed_since_2026_11_03": true
   },
   {
     "file": "Update 1.2 Left Finger and Pad Carrier.ipt",
-    "changed": false,
-    "changes": "",
+    "changed": true,
+    "changes": "Thickness reduced from 8 to 6 mm; tip and integrated carrier bent upward 45 degrees beyond the pivot holes; flat-to-45-degree underside reinforcement added for printing.",
     "quantity": 1,
     "print_orientation": "Broad flat face down; native Z=0 on bed",
     "category": "3D print",
     "source_sha256": "b0fcc214893839cdd7ecd395cd5776ca8682ac40e88da6805726a193b0380ec7",
-    "final_sha256": "b0fcc214893839cdd7ecd395cd5776ca8682ac40e88da6805726a193b0380ec7"
+    "final_sha256": "c7a2d8c941a6d54e480edd2700f3018c90120c6fefaf559f5ea2f0fb9475b01d",
+    "previous_package_sha256": "b0fcc214893839cdd7ecd395cd5776ca8682ac40e88da6805726a193b0380ec7",
+    "changed_since_2026_11_03": true
   },
   {
     "file": "Update 1.2 Right Finger and Pad Carrier.ipt",
-    "changed": false,
-    "changes": "",
+    "changed": true,
+    "changes": "Thickness reduced from 8 to 6 mm; tip and integrated carrier bent upward 45 degrees beyond the pivot holes; flat-to-45-degree underside reinforcement added for printing.",
     "quantity": 1,
     "print_orientation": "Broad flat face down; native Z=0 on bed",
     "category": "3D print",
     "source_sha256": "751d425e75841a122f41d1ca0309e5a6eb35b32bad43f5b8cd3a998ee33cfc77",
-    "final_sha256": "751d425e75841a122f41d1ca0309e5a6eb35b32bad43f5b8cd3a998ee33cfc77"
+    "final_sha256": "0f256fb5c2111c69e170d4b759f83e5f4bbaddbfd4fe06ded8ab9fe2fe6ca62c",
+    "previous_package_sha256": "751d425e75841a122f41d1ca0309e5a6eb35b32bad43f5b8cd3a998ee33cfc77",
+    "changed_since_2026_11_03": true
   },
   {
     "file": "P4-05 Foam contact pad.ipt",
-    "changed": false,
-    "changes": "",
+    "changed": true,
+    "changes": "Foam dimensions now 28 x 6 x 2 mm; pad occurrences follow bent carriers.",
     "quantity": 2,
-    "print_orientation": "Cut 28 x 8 x 2 mm soft foam",
+    "print_orientation": "Cut 28 x 6 x 2 mm soft foam",
     "category": "Cut foam; do not rigid-print",
     "source_sha256": "5324c43195375ad7285f1084518cf84fdd72d6f95505f6990c91a7c1c1330177",
-    "final_sha256": "5324c43195375ad7285f1084518cf84fdd72d6f95505f6990c91a7c1c1330177"
+    "final_sha256": "3ae1197642ba96c91aa62f139d9b71de569be218a213a65c8adef06e2879dc48",
+    "previous_package_sha256": "5324c43195375ad7285f1084518cf84fdd72d6f95505f6990c91a7c1c1330177",
+    "changed_since_2026_11_03": true
   },
   {
     "file": "Update 1.2 Uppercrankline and Left Driven Gears.ipt",
     "changed": true,
-    "changes": "Cap reduced from 28 to 25.5 mm to prevent collision; 1.25 mm 45 degree tooth transition; exposed face 2.5 mm chamfer",
+    "changes": "Overall thickness reduced from 9.5 to 8 mm by trimming the crank face. Gear teeth, bearing bores, 45 mm pivot spacing, and 25.5 mm cap envelope retained; remaining exposed-face bevel is 1 mm.",
     "quantity": 1,
-    "print_orientation": "Flat crank face down; native Z=9.5 on bed",
+    "print_orientation": "Flat trimmed crank face down; native Z=8 on bed",
     "category": "3D print",
     "source_sha256": "820a536c5db568eef7d606b16c01a10f0566c177a39330ae6e3eb3210f06f853",
-    "final_sha256": "1033d236ee8faf2bc951df5bf2a298769ed03a81f129d7b206ec75588bf21ed3"
+    "final_sha256": "cae870fa2705b272159ac9d56a50003ffa3409bf6dfeece8c1f3a28e432003ef",
+    "previous_package_sha256": "1033d236ee8faf2bc951df5bf2a298769ed03a81f129d7b206ec75588bf21ed3",
+    "changed_since_2026_11_03": true
   },
   {
     "file": "Update 1.2 Uppercrankline and Right Driven Gears.ipt",
     "changed": true,
-    "changes": "Cap reduced from 28 to 25.5 mm to prevent collision; 1.25 mm 45 degree tooth transition; exposed face 2.5 mm chamfer",
+    "changes": "Overall thickness reduced from 9.5 to 8 mm by trimming the crank face. Gear teeth, bearing bores, 45 mm pivot spacing, and 25.5 mm cap envelope retained; remaining exposed-face bevel is 1 mm.",
     "quantity": 1,
-    "print_orientation": "Flat crank face down; native Z=9.5 on bed",
+    "print_orientation": "Flat trimmed crank face down; native Z=8 on bed",
     "category": "3D print",
     "source_sha256": "f263f04b8214636b68cae0d183ec704e4fe2961a9be247cee139a86768d13764",
-    "final_sha256": "57661bd9e9785edca1c6eeb945ab3c9439bcae77f5529ef2a8cb690005e625f1"
+    "final_sha256": "fd064c0a2d64f5fbcdf9e157af7c5f8162a3fb9a97767ef3787d3469b9382ba2",
+    "previous_package_sha256": "57661bd9e9785edca1c6eeb945ab3c9439bcae77f5529ef2a8cb690005e625f1",
+    "changed_since_2026_11_03": true
   },
   {
     "file": "P1-01_Lower_Mounting_Frame.ipt",
     "changed": true,
-    "changes": "Four blind axle pockets replaced with M3 clearance through holes and captive M3 nuts. Original platform mount coordinates retained verified against supplied platform; maximum centre error 0.000030 mm.",
+    "changes": "Unchanged from the November 3 finalparts package; retain its M3 clearance holes and captive nut pockets.",
     "quantity": 1,
     "print_orientation": "Flat upper face down; native Z=3 on bed; nut pockets face upward",
     "category": "3D print",
     "source_sha256": "1142fe5e644217cc09932e1b7d168516819c5487ee2dd66798a7bd18b53327ee",
-    "final_sha256": "8be940b08784a4f5c5124feca3a42bf92659b5a96d78aabb655c07636c7e8347"
+    "final_sha256": "8be940b08784a4f5c5124feca3a42bf92659b5a96d78aabb655c07636c7e8347",
+    "previous_package_sha256": "8be940b08784a4f5c5124feca3a42bf92659b5a96d78aabb655c07636c7e8347",
+    "changed_since_2026_11_03": false
   },
   {
     "file": "P4-04 Upper axle-support plate.ipt",
     "changed": true,
-    "changes": "Blind axle pockets replaced with M3 clearance through holes; four 6.6 mm tool-access holes over platform mounting screws.",
+    "changes": "Thickness reduced from 3 to 2 mm; clearance and mounting-tool access holes retained.",
     "quantity": 1,
     "print_orientation": "Either broad flat face down",
     "category": "3D print",
     "source_sha256": "2b8ee6cf0302203b7979bbd9dcfea970ef95edaf4af3d9a698567fe39b20bd88",
-    "final_sha256": "956465b32ecd25dbee189c4eed27c69eb8beec80cf5051a0761c376523487a8c"
+    "final_sha256": "461302374a23aaa1c5da4b9425e6d1ba98ebb369b80ca7b8479a68e14c2fc774",
+    "previous_package_sha256": "956465b32ecd25dbee189c4eed27c69eb8beec80cf5051a0761c376523487a8c",
+    "changed_since_2026_11_03": true
   },
   {
     "file": "P2-01 Input pinion 18 teeth.ipt",
     "changed": true,
-    "changes": "M2 radial pilot replaced by 2.5 mm M3 tapping pilot at Z=2 mm. Tap M3 x 0.5 after printing. 45 degree teardrop roof in print orientation.",
+    "changes": "Unchanged from the November 3 finalparts package; retain D-bore and M3 tapping pilot.",
     "quantity": 1,
     "print_orientation": "Full gear face down; native Z=8 on bed",
     "category": "3D print",
     "source_sha256": "89a43a6074306cfdc258c1513421eb76e3b79fbc2da1fe78385341d909e5724c",
-    "final_sha256": "d97766a4d897ed41b6f02ee1d81c26f2fe1f64182e2aed163d3aa5000d10f095"
+    "final_sha256": "d97766a4d897ed41b6f02ee1d81c26f2fe1f64182e2aed163d3aa5000d10f095",
+    "previous_package_sha256": "d97766a4d897ed41b6f02ee1d81c26f2fe1f64182e2aed163d3aa5000d10f095",
+    "changed_since_2026_11_03": false
   },
   {
-    "file": "Hardware/Pivot sleeve 4OD 3.2ID x14.ipt",
+    "file": "Hardware/Pivot sleeve 4OD 3.2ID x11.ipt",
     "changed": true,
-    "changes": "Metal tube sleeve; cut square to 14 mm; deburr; M3 bolt runs inside",
+    "changes": "Metal hardware; 11 mm length.",
     "quantity": 4,
     "print_orientation": "Do not print",
     "category": "Metal hardware",
     "source_sha256": null,
-    "final_sha256": "63ec8be16f6b7c67c96002e880ef80ccffe33af133f8d20e745ec590891dce3c"
+    "final_sha256": "3a3282cfc78c7e7d7560033c02be075b9bdce5e37ec9f3fe100431065e4eabf7"
   },
   {
-    "file": "Hardware/Pivot sleeve 4OD 3.2ID x13.ipt",
+    "file": "Hardware/Pivot sleeve 4OD 3.2ID x10.5.ipt",
     "changed": true,
-    "changes": "Metal tube sleeve; cut square to 13 mm; deburr; M3 bolt runs inside",
+    "changes": "Metal hardware; 10.5 mm length.",
     "quantity": 4,
     "print_orientation": "Do not print",
     "category": "Metal hardware",
     "source_sha256": null,
-    "final_sha256": "8eabfbe9ae19a61c5f5ce3613adcf208facefcad2c95c6acf2dad0022be98db4"
+    "final_sha256": "8843c1e30fad9aa9cbc64b6c4567f87593e328dd7ea1bf9bc164ff7e2c072907"
+  },
+  {
+    "file": "Hardware/M3x16 socket screw.ipt",
+    "changed": true,
+    "changes": "Metal hardware; 16 mm length.",
+    "quantity": 7,
+    "print_orientation": "Do not print",
+    "category": "Metal hardware",
+    "source_sha256": null,
+    "final_sha256": "fc8a1fef6fbd82f4f8929825cade013bbf493a0cbee6b5b69a629ec7afaf83e9"
   }
 ]

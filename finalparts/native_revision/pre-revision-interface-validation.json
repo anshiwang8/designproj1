@@ -1,0 +1,739 @@
+{
+  "through_bores": [
+    {
+      "file": "P1-01_Lower_Mounting_Frame.ipt",
+      "centre_mm": [
+        -14,
+        -21,
+        -1
+      ],
+      "diameter_mm": 3.4,
+      "all_nine_rays_clear": true,
+      "ray_hits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "P1-01_Lower_Mounting_Frame.ipt",
+      "centre_mm": [
+        35,
+        -21,
+        -1
+      ],
+      "diameter_mm": 3.4,
+      "all_nine_rays_clear": true,
+      "ray_hits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "P1-01_Lower_Mounting_Frame.ipt",
+      "centre_mm": [
+        -14,
+        28,
+        -1
+      ],
+      "diameter_mm": 3.4,
+      "all_nine_rays_clear": true,
+      "ray_hits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "P1-01_Lower_Mounting_Frame.ipt",
+      "centre_mm": [
+        35,
+        28,
+        -1
+      ],
+      "diameter_mm": 3.4,
+      "all_nine_rays_clear": true,
+      "ray_hits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "P1-01_Lower_Mounting_Frame.ipt",
+      "centre_mm": [
+        -12,
+        -12,
+        -1
+      ],
+      "diameter_mm": 3.4,
+      "all_nine_rays_clear": true,
+      "ray_hits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "P1-01_Lower_Mounting_Frame.ipt",
+      "centre_mm": [
+        38,
+        -12,
+        -1
+      ],
+      "diameter_mm": 3.4,
+      "all_nine_rays_clear": true,
+      "ray_hits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "P1-01_Lower_Mounting_Frame.ipt",
+      "centre_mm": [
+        13,
+        37,
+        -1
+      ],
+      "diameter_mm": 3.4,
+      "all_nine_rays_clear": true,
+      "ray_hits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "P1-01_Lower_Mounting_Frame.ipt",
+      "centre_mm": [
+        0,
+        22,
+        -1
+      ],
+      "diameter_mm": 3.4,
+      "all_nine_rays_clear": true,
+      "ray_hits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "P1-01_Lower_Mounting_Frame.ipt",
+      "centre_mm": [
+        26,
+        22,
+        -1
+      ],
+      "diameter_mm": 3.4,
+      "all_nine_rays_clear": true,
+      "ray_hits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "P1-01_Lower_Mounting_Frame.ipt",
+      "centre_mm": [
+        7,
+        46,
+        -1
+      ],
+      "diameter_mm": 3.4,
+      "all_nine_rays_clear": true,
+      "ray_hits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "P1-01_Lower_Mounting_Frame.ipt",
+      "centre_mm": [
+        19,
+        46,
+        -1
+      ],
+      "diameter_mm": 3.4,
+      "all_nine_rays_clear": true,
+      "ray_hits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "P4-04 Upper axle-support plate.ipt",
+      "centre_mm": [
+        -12,
+        -12,
+        -1
+      ],
+      "diameter_mm": 3.4,
+      "all_nine_rays_clear": true,
+      "ray_hits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "P4-04 Upper axle-support plate.ipt",
+      "centre_mm": [
+        38,
+        -12,
+        -1
+      ],
+      "diameter_mm": 3.4,
+      "all_nine_rays_clear": true,
+      "ray_hits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "P4-04 Upper axle-support plate.ipt",
+      "centre_mm": [
+        13,
+        37,
+        -1
+      ],
+      "diameter_mm": 3.4,
+      "all_nine_rays_clear": true,
+      "ray_hits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "P4-04 Upper axle-support plate.ipt",
+      "centre_mm": [
+        0,
+        22,
+        -1
+      ],
+      "diameter_mm": 3.4,
+      "all_nine_rays_clear": true,
+      "ray_hits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "P4-04 Upper axle-support plate.ipt",
+      "centre_mm": [
+        26,
+        22,
+        -1
+      ],
+      "diameter_mm": 3.4,
+      "all_nine_rays_clear": true,
+      "ray_hits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "P4-04 Upper axle-support plate.ipt",
+      "centre_mm": [
+        7,
+        46,
+        -1
+      ],
+      "diameter_mm": 3.4,
+      "all_nine_rays_clear": true,
+      "ray_hits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "P4-04 Upper axle-support plate.ipt",
+      "centre_mm": [
+        19,
+        46,
+        -1
+      ],
+      "diameter_mm": 3.4,
+      "all_nine_rays_clear": true,
+      "ray_hits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "P1-02 Design Study Structural Pillar.ipt",
+      "centre_mm": [
+        0,
+        -1,
+        0
+      ],
+      "diameter_mm": 3.4,
+      "all_nine_rays_clear": true,
+      "ray_hits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "LowerFollowerLink.ipt",
+      "centre_mm": [
+        0,
+        -1,
+        -5
+      ],
+      "diameter_mm": 4.3,
+      "all_nine_rays_clear": true,
+      "ray_hits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "LowerFollowerLink.ipt",
+      "centre_mm": [
+        0,
+        -1,
+        -50
+      ],
+      "diameter_mm": 4.3,
+      "all_nine_rays_clear": true,
+      "ray_hits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "LowerPivotSpacer.ipt",
+      "centre_mm": [
+        0,
+        -1,
+        0
+      ],
+      "diameter_mm": 4.3,
+      "all_nine_rays_clear": true,
+      "ray_hits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "UpperPivotSpacer.ipt",
+      "centre_mm": [
+        0,
+        -1,
+        0
+      ],
+      "diameter_mm": 4.3,
+      "all_nine_rays_clear": true,
+      "ray_hits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "Update 1.2 Uppercrankline and Left Driven Gears.ipt",
+      "centre_mm": [
+        0,
+        0,
+        -1
+      ],
+      "diameter_mm": 4.3,
+      "all_nine_rays_clear": true,
+      "ray_hits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "Update 1.2 Uppercrankline and Left Driven Gears.ipt",
+      "centre_mm": [
+        0,
+        45,
+        -1
+      ],
+      "diameter_mm": 4.3,
+      "all_nine_rays_clear": true,
+      "ray_hits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "Update 1.2 Left Finger and Pad Carrier.ipt",
+      "centre_mm": [
+        0,
+        0,
+        -1
+      ],
+      "diameter_mm": 4.3,
+      "all_nine_rays_clear": true,
+      "ray_hits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "Update 1.2 Left Finger and Pad Carrier.ipt",
+      "centre_mm": [
+        7,
+        24,
+        -1
+      ],
+      "diameter_mm": 4.3,
+      "all_nine_rays_clear": true,
+      "ray_hits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "Update 1.2 Uppercrankline and Right Driven Gears.ipt",
+      "centre_mm": [
+        0,
+        0,
+        -1
+      ],
+      "diameter_mm": 4.3,
+      "all_nine_rays_clear": true,
+      "ray_hits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "Update 1.2 Uppercrankline and Right Driven Gears.ipt",
+      "centre_mm": [
+        0,
+        45,
+        -1
+      ],
+      "diameter_mm": 4.3,
+      "all_nine_rays_clear": true,
+      "ray_hits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "Update 1.2 Right Finger and Pad Carrier.ipt",
+      "centre_mm": [
+        0,
+        0,
+        -1
+      ],
+      "diameter_mm": 4.3,
+      "all_nine_rays_clear": true,
+      "ray_hits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "Update 1.2 Right Finger and Pad Carrier.ipt",
+      "centre_mm": [
+        -7,
+        24,
+        -1
+      ],
+      "diameter_mm": 4.3,
+      "all_nine_rays_clear": true,
+      "ray_hits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "mounting_pattern": [
+    {
+      "frame_hole_mm": [
+        -14,
+        -21
+      ],
+      "platform_hole_mm": [
+        -13.999991385812509,
+        -20.999971924516203
+      ],
+      "centre_error_mm": 2.936727799083439e-05
+    },
+    {
+      "frame_hole_mm": [
+        35,
+        -21
+      ],
+      "platform_hole_mm": [
+        35.00000861418749,
+        -20.999971924516203
+      ],
+      "centre_error_mm": 2.936727799135544e-05
+    },
+    {
+      "frame_hole_mm": [
+        -14,
+        28
+      ],
+      "platform_hole_mm": [
+        -13.999991385812509,
+        28.000028075483797
+      ],
+      "centre_error_mm": 2.936727799083439e-05
+    },
+    {
+      "frame_hole_mm": [
+        35,
+        28
+      ],
+      "platform_hole_mm": [
+        35.00000861418749,
+        28.000028075483797
+      ],
+      "centre_error_mm": 2.936727799135544e-05
+    }
+  ],
+  "unchanged_files": [
+    {
+      "file": "LowerFollowerLink.ipt",
+      "quantity": 2,
+      "sha256": "b8a0581b11c399f031c6f8b9d1f72c25b63f1a84769079fd765e6b38ee70ca0a"
+    },
+    {
+      "file": "LowerPivotSpacer.ipt",
+      "quantity": 2,
+      "sha256": "053e99ba7a11afdf8324119d0d4d65422770ebb93dc29de0da0379ab04f23242"
+    },
+    {
+      "file": "UpperPivotSpacer.ipt",
+      "quantity": 4,
+      "sha256": "1205d6212d434c4c8a68e671af2a38e6dad37eebe1637164b3c630e8a08d424c"
+    },
+    {
+      "file": "P1-02 Design Study Structural Pillar.ipt",
+      "quantity": 3,
+      "sha256": "777a8f89ea0b594ec0612ac00fd2e8884cb8f9218e9ec023d2618642046a7c2c"
+    },
+    {
+      "file": "Update 1.2 Left Finger and Pad Carrier.ipt",
+      "quantity": 1,
+      "sha256": "b0fcc214893839cdd7ecd395cd5776ca8682ac40e88da6805726a193b0380ec7"
+    },
+    {
+      "file": "Update 1.2 Right Finger and Pad Carrier.ipt",
+      "quantity": 1,
+      "sha256": "751d425e75841a122f41d1ca0309e5a6eb35b32bad43f5b8cd3a998ee33cfc77"
+    },
+    {
+      "file": "P4-05 Foam contact pad.ipt",
+      "quantity": 2,
+      "sha256": "5324c43195375ad7285f1084518cf84fdd72d6f95505f6990c91a7c1c1330177"
+    }
+  ],
+  "original_platform_files_byte_identical": true
+}

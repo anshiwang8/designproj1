@@ -1,0 +1,222 @@
+[
+  {
+    "file": "LowerFollowerLink.stl",
+    "watertight": true,
+    "components": 1,
+    "triangles": 676,
+    "bounds_mm": [
+      [
+        -5.000000000000004,
+        0.0,
+        0.0
+      ],
+      [
+        4.999999999999998,
+        55.00000000000001,
+        3.5000000000000004
+      ]
+    ],
+    "volume_mm3": 1748.189022180208,
+    "unsupported_area_below_44deg_mm2": 0.0
+  },
+  {
+    "file": "LowerPivotSpacer.stl",
+    "watertight": true,
+    "components": 1,
+    "triangles": 440,
+    "bounds_mm": [
+      [
+        -4.0,
+        -3.9987567280032654,
+        0.0
+      ],
+      [
+        3.9950276848756894,
+        3.9987567280032654,
+        4.5
+      ]
+    ],
+    "volume_mm3": 160.665296988295,
+    "unsupported_area_below_44deg_mm2": 0.0
+  },
+  {
+    "file": "P1-01_Lower_Mounting_Frame.stl",
+    "watertight": true,
+    "components": 1,
+    "triangles": 2924,
+    "bounds_mm": [
+      [
+        -20.0,
+        -54.0,
+        0.0
+      ],
+      [
+        46.00000000000001,
+        26.0,
+        3.0000000000000004
+      ]
+    ],
+    "volume_mm3": 13802.206468250166,
+    "unsupported_area_below_44deg_mm2": 0.0
+  },
+  {
+    "file": "P1-02 Design Study Structural Pillar.stl",
+    "watertight": true,
+    "components": 1,
+    "triangles": 416,
+    "bounds_mm": [
+      [
+        -4.0,
+        -3.9987567280032654,
+        0.0
+      ],
+      [
+        3.9950276848756894,
+        3.9987567280032654,
+        11.0
+      ]
+    ],
+    "volume_mm3": 452.42578112300794,
+    "unsupported_area_below_44deg_mm2": 0.0
+  },
+  {
+    "file": "P2-01 Input pinion 18 teeth.stl",
+    "watertight": true,
+    "components": 1,
+    "triangles": 3142,
+    "bounds_mm": [
+      [
+        -9.999547877917168,
+        -9.893601488753633,
+        0.0
+      ],
+      [
+        9.999547877917168,
+        9.893601488753633,
+        8.000000000000002
+      ]
+    ],
+    "volume_mm3": 1468.1903240846757,
+    "unsupported_area_below_44deg_mm2": 0.0
+  },
+  {
+    "file": "P4-04 Upper axle-support plate.stl",
+    "watertight": true,
+    "components": 1,
+    "triangles": 2148,
+    "bounds_mm": [
+      [
+        -20.0,
+        -26.0,
+        0.0
+      ],
+      [
+        46.0,
+        54.0,
+        2.0
+      ]
+    ],
+    "volume_mm3": 8400.227566522617,
+    "unsupported_area_below_44deg_mm2": 0.0
+  },
+  {
+    "file": "Update 1.2 Left Finger and Pad Carrier.stl",
+    "watertight": true,
+    "components": 1,
+    "triangles": 448,
+    "bounds_mm": [
+      [
+        -6.0,
+        -6.0,
+        0.0
+      ],
+      [
+        14.999999999999993,
+        58.72891088019209,
+        29.072056630699752
+      ]
+    ],
+    "volume_mm3": 5888.581194939659,
+    "unsupported_area_below_44deg_mm2": 0.0
+  },
+  {
+    "file": "Update 1.2 Right Finger and Pad Carrier.stl",
+    "watertight": true,
+    "components": 1,
+    "triangles": 448,
+    "bounds_mm": [
+      [
+        -15.0,
+        -6.0,
+        0.0
+      ],
+      [
+        6.0,
+        58.72891088019209,
+        29.072056630699752
+      ]
+    ],
+    "volume_mm3": 5888.581194939653,
+    "unsupported_area_below_44deg_mm2": 0.0
+  },
+  {
+    "file": "Update 1.2 Uppercrankline and Left Driven Gears.stl",
+    "watertight": true,
+    "components": 1,
+    "triangles": 5618,
+    "bounds_mm": [
+      [
+        -13.999623421801296,
+        -51.00000000000002,
+        0.0
+      ],
+      [
+        13.999623421801296,
+        13.931688844693056,
+        8.0
+      ]
+    ],
+    "volume_mm3": 4725.649168483237,
+    "unsupported_area_below_44deg_mm2": 0.0
+  },
+  {
+    "file": "Update 1.2 Uppercrankline and Right Driven Gears.stl",
+    "watertight": true,
+    "components": 1,
+    "triangles": 5634,
+    "bounds_mm": [
+      [
+        -13.931688844693058,
+        -51.0,
+        0.0
+      ],
+      [
+        13.931688844693058,
+        13.999623421801296,
+        8.0
+      ]
+    ],
+    "volume_mm3": 4725.612944175754,
+    "unsupported_area_below_44deg_mm2": 0.0
+  },
+  {
+    "file": "UpperPivotSpacer.stl",
+    "watertight": true,
+    "components": 1,
+    "triangles": 440,
+    "bounds_mm": [
+      [
+        -4.000000000000001,
+        -3.998756728003266,
+        0.0
+      ],
+      [
+        3.99502768487569,
+        3.998756728003266,
+        2.0
+      ]
+    ],
+    "volume_mm3": 71.38519514658356,
+    "unsupported_area_below_44deg_mm2": 0.0
+  }
+]

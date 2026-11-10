@@ -1,0 +1,1072 @@
+[
+  {
+    "name": "Upper axle-support plate - datum 1",
+    "offset": "0 mm",
+    "param": "d0"
+  },
+  {
+    "name": "Upper axle-support plate - datum 2",
+    "offset": "0 mm",
+    "param": "d1"
+  },
+  {
+    "name": "Upper axle-support plate - datum 3",
+    "offset": "17 mm",
+    "param": "d2"
+  },
+  {
+    "name": "Structural pillar 1 - datum 1",
+    "offset": "-12 mm",
+    "param": "d3"
+  },
+  {
+    "name": "Structural pillar 1 - datum 2",
+    "offset": "3 mm",
+    "param": "d4"
+  },
+  {
+    "name": "Structural pillar 1 - datum 3",
+    "offset": "-12 mm",
+    "param": "d5"
+  },
+  {
+    "name": "Structural pillar 2 - datum 1",
+    "offset": "38 mm",
+    "param": "d6"
+  },
+  {
+    "name": "Structural pillar 2 - datum 2",
+    "offset": "3 mm",
+    "param": "d7"
+  },
+  {
+    "name": "Structural pillar 2 - datum 3",
+    "offset": "-12 mm",
+    "param": "d8"
+  },
+  {
+    "name": "Structural pillar 3 - datum 1",
+    "offset": "13 mm",
+    "param": "d9"
+  },
+  {
+    "name": "Structural pillar 3 - datum 2",
+    "offset": "3 mm",
+    "param": "d10"
+  },
+  {
+    "name": "Structural pillar 3 - datum 3",
+    "offset": "37 mm",
+    "param": "d11"
+  },
+  {
+    "name": "Upper pivot spacer 1 - datum 1",
+    "offset": "0 mm",
+    "param": "d12"
+  },
+  {
+    "name": "Upper pivot spacer 1 - datum 2",
+    "offset": "13 mm",
+    "param": "d13"
+  },
+  {
+    "name": "Upper pivot spacer 1 - datum 3",
+    "offset": "22 mm",
+    "param": "d14"
+  },
+  {
+    "name": "Fixed pivot metal sleeve 1 - datum 1",
+    "offset": "0 mm",
+    "param": "d15"
+  },
+  {
+    "name": "Fixed pivot metal sleeve 1 - datum 2",
+    "offset": "22 mm",
+    "param": "d16"
+  },
+  {
+    "name": "Fixed pivot metal sleeve 1 - datum 3",
+    "offset": "3 mm",
+    "param": "d17"
+  },
+  {
+    "name": "Upper pivot spacer 2 - datum 1",
+    "offset": "26 mm",
+    "param": "d18"
+  },
+  {
+    "name": "Upper pivot spacer 2 - datum 2",
+    "offset": "13 mm",
+    "param": "d19"
+  },
+  {
+    "name": "Upper pivot spacer 2 - datum 3",
+    "offset": "22 mm",
+    "param": "d20"
+  },
+  {
+    "name": "Fixed pivot metal sleeve 2 - datum 1",
+    "offset": "26 mm",
+    "param": "d21"
+  },
+  {
+    "name": "Fixed pivot metal sleeve 2 - datum 2",
+    "offset": "22 mm",
+    "param": "d22"
+  },
+  {
+    "name": "Fixed pivot metal sleeve 2 - datum 3",
+    "offset": "3 mm",
+    "param": "d23"
+  },
+  {
+    "name": "Upper pivot spacer 3 - datum 1",
+    "offset": "7 mm",
+    "param": "d24"
+  },
+  {
+    "name": "Upper pivot spacer 3 - datum 2",
+    "offset": "13 mm",
+    "param": "d25"
+  },
+  {
+    "name": "Upper pivot spacer 3 - datum 3",
+    "offset": "46 mm",
+    "param": "d26"
+  },
+  {
+    "name": "Fixed pivot metal sleeve 3 - datum 1",
+    "offset": "7 mm",
+    "param": "d27"
+  },
+  {
+    "name": "Fixed pivot metal sleeve 3 - datum 2",
+    "offset": "46 mm",
+    "param": "d28"
+  },
+  {
+    "name": "Fixed pivot metal sleeve 3 - datum 3",
+    "offset": "3 mm",
+    "param": "d29"
+  },
+  {
+    "name": "Upper pivot spacer 4 - datum 1",
+    "offset": "19 mm",
+    "param": "d30"
+  },
+  {
+    "name": "Upper pivot spacer 4 - datum 2",
+    "offset": "13 mm",
+    "param": "d31"
+  },
+  {
+    "name": "Upper pivot spacer 4 - datum 3",
+    "offset": "46 mm",
+    "param": "d32"
+  },
+  {
+    "name": "Fixed pivot metal sleeve 4 - datum 1",
+    "offset": "19 mm",
+    "param": "d33"
+  },
+  {
+    "name": "Fixed pivot metal sleeve 4 - datum 2",
+    "offset": "46 mm",
+    "param": "d34"
+  },
+  {
+    "name": "Fixed pivot metal sleeve 4 - datum 3",
+    "offset": "3 mm",
+    "param": "d35"
+  },
+  {
+    "name": "M3 frame bolt 1 - datum 1",
+    "offset": "-12 mm",
+    "param": "d36"
+  },
+  {
+    "name": "M3 frame bolt 1 - datum 2",
+    "offset": "-12 mm",
+    "param": "d37"
+  },
+  {
+    "name": "M3 frame bolt 1 - datum 3",
+    "offset": "20 mm",
+    "param": "d38"
+  },
+  {
+    "name": "M3 frame bolt 2 - datum 1",
+    "offset": "38 mm",
+    "param": "d42"
+  },
+  {
+    "name": "M3 frame bolt 2 - datum 2",
+    "offset": "-12 mm",
+    "param": "d43"
+  },
+  {
+    "name": "M3 frame bolt 2 - datum 3",
+    "offset": "20 mm",
+    "param": "d44"
+  },
+  {
+    "name": "M3 frame bolt 3 - datum 1",
+    "offset": "13 mm",
+    "param": "d48"
+  },
+  {
+    "name": "M3 frame bolt 3 - datum 2",
+    "offset": "37 mm",
+    "param": "d49"
+  },
+  {
+    "name": "M3 frame bolt 3 - datum 3",
+    "offset": "20 mm",
+    "param": "d50"
+  },
+  {
+    "name": "M3 frame bolt 4 - datum 1",
+    "offset": "0 mm",
+    "param": "d54"
+  },
+  {
+    "name": "M3 frame bolt 4 - datum 2",
+    "offset": "22 mm",
+    "param": "d55"
+  },
+  {
+    "name": "M3 frame bolt 4 - datum 3",
+    "offset": "20 mm",
+    "param": "d56"
+  },
+  {
+    "name": "M3 captive frame nut 4 - datum 1",
+    "offset": "0 mm",
+    "param": "d57"
+  },
+  {
+    "name": "M3 captive frame nut 4 - datum 2",
+    "offset": "22 mm",
+    "param": "d58"
+  },
+  {
+    "name": "M3 captive frame nut 4 - datum 3",
+    "offset": "0 mm",
+    "param": "d59"
+  },
+  {
+    "name": "M3 frame bolt 5 - datum 1",
+    "offset": "26 mm",
+    "param": "d60"
+  },
+  {
+    "name": "M3 frame bolt 5 - datum 2",
+    "offset": "22 mm",
+    "param": "d61"
+  },
+  {
+    "name": "M3 frame bolt 5 - datum 3",
+    "offset": "20 mm",
+    "param": "d62"
+  },
+  {
+    "name": "M3 captive frame nut 5 - datum 1",
+    "offset": "26 mm",
+    "param": "d63"
+  },
+  {
+    "name": "M3 captive frame nut 5 - datum 2",
+    "offset": "22 mm",
+    "param": "d64"
+  },
+  {
+    "name": "M3 captive frame nut 5 - datum 3",
+    "offset": "0 mm",
+    "param": "d65"
+  },
+  {
+    "name": "M3 frame bolt 6 - datum 1",
+    "offset": "7 mm",
+    "param": "d66"
+  },
+  {
+    "name": "M3 frame bolt 6 - datum 2",
+    "offset": "46 mm",
+    "param": "d67"
+  },
+  {
+    "name": "M3 frame bolt 6 - datum 3",
+    "offset": "20 mm",
+    "param": "d68"
+  },
+  {
+    "name": "M3 captive frame nut 6 - datum 1",
+    "offset": "7 mm",
+    "param": "d69"
+  },
+  {
+    "name": "M3 captive frame nut 6 - datum 2",
+    "offset": "46 mm",
+    "param": "d70"
+  },
+  {
+    "name": "M3 captive frame nut 6 - datum 3",
+    "offset": "0 mm",
+    "param": "d71"
+  },
+  {
+    "name": "M3 frame bolt 7 - datum 1",
+    "offset": "19 mm",
+    "param": "d72"
+  },
+  {
+    "name": "M3 frame bolt 7 - datum 2",
+    "offset": "46 mm",
+    "param": "d73"
+  },
+  {
+    "name": "M3 frame bolt 7 - datum 3",
+    "offset": "20 mm",
+    "param": "d74"
+  },
+  {
+    "name": "M3 captive frame nut 7 - datum 1",
+    "offset": "19 mm",
+    "param": "d75"
+  },
+  {
+    "name": "M3 captive frame nut 7 - datum 2",
+    "offset": "46 mm",
+    "param": "d76"
+  },
+  {
+    "name": "M3 captive frame nut 7 - datum 3",
+    "offset": "0 mm",
+    "param": "d77"
+  },
+  {
+    "name": "Left lower pivot spacer - datum 1",
+    "offset": "7 mm",
+    "param": "d78"
+  },
+  {
+    "name": "Left lower pivot spacer - datum 2",
+    "offset": "3 mm",
+    "param": "d79"
+  },
+  {
+    "name": "Left lower pivot spacer - datum 3",
+    "offset": "46 mm",
+    "param": "d80"
+  },
+  {
+    "name": "Right lower pivot spacer - datum 1",
+    "offset": "19 mm",
+    "param": "d81"
+  },
+  {
+    "name": "Right lower pivot spacer - datum 2",
+    "offset": "3 mm",
+    "param": "d82"
+  },
+  {
+    "name": "Right lower pivot spacer - datum 3",
+    "offset": "46 mm",
+    "param": "d83"
+  },
+  {
+    "name": "QArm supplied end effector platform - datum 1",
+    "offset": "-1.96653116808 mm",
+    "param": "d84"
+  },
+  {
+    "name": "QArm supplied end effector platform - datum 2",
+    "offset": "-40.0306448887 mm",
+    "param": "d85"
+  },
+  {
+    "name": "QArm supplied end effector platform - datum 3",
+    "offset": "5.69461753305 mm",
+    "param": "d86"
+  },
+  {
+    "name": "Platform M3 mounting screw 1 - datum 1",
+    "offset": "-14 mm",
+    "param": "d87"
+  },
+  {
+    "name": "Platform M3 mounting screw 1 - datum 2",
+    "offset": "-21 mm",
+    "param": "d88"
+  },
+  {
+    "name": "Platform M3 mounting screw 1 - datum 3",
+    "offset": "-7 mm",
+    "param": "d89"
+  },
+  {
+    "name": "Platform M3 washer 1 - datum 1",
+    "offset": "-14 mm",
+    "param": "d90"
+  },
+  {
+    "name": "Platform M3 washer 1 - datum 2",
+    "offset": "-21 mm",
+    "param": "d91"
+  },
+  {
+    "name": "Platform M3 washer 1 - datum 3",
+    "offset": "-3 mm",
+    "param": "d92"
+  },
+  {
+    "name": "Platform M3 nut 1 - datum 1",
+    "offset": "-14 mm",
+    "param": "d93"
+  },
+  {
+    "name": "Platform M3 nut 1 - datum 2",
+    "offset": "-21 mm",
+    "param": "d94"
+  },
+  {
+    "name": "Platform M3 nut 1 - datum 3",
+    "offset": "-5.4 mm",
+    "param": "d95"
+  },
+  {
+    "name": "Platform M3 mounting screw 2 - datum 1",
+    "offset": "35 mm",
+    "param": "d96"
+  },
+  {
+    "name": "Platform M3 mounting screw 2 - datum 2",
+    "offset": "-21 mm",
+    "param": "d97"
+  },
+  {
+    "name": "Platform M3 mounting screw 2 - datum 3",
+    "offset": "-7 mm",
+    "param": "d98"
+  },
+  {
+    "name": "Platform M3 washer 2 - datum 1",
+    "offset": "35 mm",
+    "param": "d99"
+  },
+  {
+    "name": "Platform M3 washer 2 - datum 2",
+    "offset": "-21 mm",
+    "param": "d100"
+  },
+  {
+    "name": "Platform M3 washer 2 - datum 3",
+    "offset": "-3 mm",
+    "param": "d101"
+  },
+  {
+    "name": "Platform M3 nut 2 - datum 1",
+    "offset": "35 mm",
+    "param": "d102"
+  },
+  {
+    "name": "Platform M3 nut 2 - datum 2",
+    "offset": "-21 mm",
+    "param": "d103"
+  },
+  {
+    "name": "Platform M3 nut 2 - datum 3",
+    "offset": "-5.4 mm",
+    "param": "d104"
+  },
+  {
+    "name": "Platform M3 mounting screw 3 - datum 1",
+    "offset": "-14 mm",
+    "param": "d105"
+  },
+  {
+    "name": "Platform M3 mounting screw 3 - datum 2",
+    "offset": "28 mm",
+    "param": "d106"
+  },
+  {
+    "name": "Platform M3 mounting screw 3 - datum 3",
+    "offset": "-7 mm",
+    "param": "d107"
+  },
+  {
+    "name": "Platform M3 washer 3 - datum 1",
+    "offset": "-14 mm",
+    "param": "d108"
+  },
+  {
+    "name": "Platform M3 washer 3 - datum 2",
+    "offset": "28 mm",
+    "param": "d109"
+  },
+  {
+    "name": "Platform M3 washer 3 - datum 3",
+    "offset": "-3 mm",
+    "param": "d110"
+  },
+  {
+    "name": "Platform M3 nut 3 - datum 1",
+    "offset": "-14 mm",
+    "param": "d111"
+  },
+  {
+    "name": "Platform M3 nut 3 - datum 2",
+    "offset": "28 mm",
+    "param": "d112"
+  },
+  {
+    "name": "Platform M3 nut 3 - datum 3",
+    "offset": "-5.4 mm",
+    "param": "d113"
+  },
+  {
+    "name": "Platform M3 mounting screw 4 - datum 1",
+    "offset": "35 mm",
+    "param": "d114"
+  },
+  {
+    "name": "Platform M3 mounting screw 4 - datum 2",
+    "offset": "28 mm",
+    "param": "d115"
+  },
+  {
+    "name": "Platform M3 mounting screw 4 - datum 3",
+    "offset": "-7 mm",
+    "param": "d116"
+  },
+  {
+    "name": "Platform M3 washer 4 - datum 1",
+    "offset": "35 mm",
+    "param": "d117"
+  },
+  {
+    "name": "Platform M3 washer 4 - datum 2",
+    "offset": "28 mm",
+    "param": "d118"
+  },
+  {
+    "name": "Platform M3 washer 4 - datum 3",
+    "offset": "-3 mm",
+    "param": "d119"
+  },
+  {
+    "name": "Platform M3 nut 4 - datum 1",
+    "offset": "35 mm",
+    "param": "d120"
+  },
+  {
+    "name": "Platform M3 nut 4 - datum 2",
+    "offset": "28 mm",
+    "param": "d121"
+  },
+  {
+    "name": "Platform M3 nut 4 - datum 3",
+    "offset": "-5.4 mm",
+    "param": "d122"
+  },
+  {
+    "name": "Input pinion height",
+    "offset": "0.5 mm",
+    "param": "d123"
+  },
+  {
+    "name": "Input shaft axis",
+    "offset": "0 mm",
+    "param": "d124"
+  },
+  {
+    "name": "Left gear face height",
+    "offset": "3.5 mm",
+    "param": "d125"
+  },
+  {
+    "name": "Left gear pivot",
+    "offset": "0 mm",
+    "param": "d126"
+  },
+  {
+    "name": "Left follower height",
+    "offset": "9 mm",
+    "param": "d127"
+  },
+  {
+    "name": "Left follower pivot",
+    "offset": "0 mm",
+    "param": "d128"
+  },
+  {
+    "name": "Left finger height",
+    "offset": "13.5 mm",
+    "param": "d129"
+  },
+  {
+    "name": "Left finger upper pivot",
+    "offset": "0 mm",
+    "param": "d130"
+  },
+  {
+    "name": "Left finger lower pivot",
+    "offset": "0 mm",
+    "param": "d131"
+  },
+  {
+    "name": "Left foam contact pad - datum 1",
+    "offset": "34 mm",
+    "param": "d132"
+  },
+  {
+    "name": "Left foam contact pad - datum 2",
+    "offset": "0 mm",
+    "param": "d133"
+  },
+  {
+    "name": "Left foam contact pad - datum 3",
+    "offset": "15 mm",
+    "param": "d134"
+  },
+  {
+    "name": "Left finger pivot 1 metal sleeve - datum 1",
+    "offset": "0 mm",
+    "param": "d135"
+  },
+  {
+    "name": "Left finger pivot 1 metal sleeve - datum 2",
+    "offset": "0 mm",
+    "param": "d136"
+  },
+  {
+    "name": "Left finger pivot 1 metal sleeve - datum 3",
+    "offset": "-4.5 mm",
+    "param": "d137"
+  },
+  {
+    "name": "Left finger pivot 1 M3 bolt - datum 1",
+    "offset": "0 mm",
+    "param": "d138"
+  },
+  {
+    "name": "Left finger pivot 1 M3 bolt - datum 2",
+    "offset": "0 mm",
+    "param": "d139"
+  },
+  {
+    "name": "Left finger pivot 1 M3 bolt - datum 3",
+    "offset": "-5 mm",
+    "param": "d140"
+  },
+  {
+    "name": "Left finger pivot 1 lower washer - datum 1",
+    "offset": "0 mm",
+    "param": "d141"
+  },
+  {
+    "name": "Left finger pivot 1 lower washer - datum 2",
+    "offset": "0 mm",
+    "param": "d142"
+  },
+  {
+    "name": "Left finger pivot 1 lower washer - datum 3",
+    "offset": "-5 mm",
+    "param": "d143"
+  },
+  {
+    "name": "Left finger pivot 1 upper washer - datum 1",
+    "offset": "0 mm",
+    "param": "d144"
+  },
+  {
+    "name": "Left finger pivot 1 upper washer - datum 2",
+    "offset": "0 mm",
+    "param": "d145"
+  },
+  {
+    "name": "Left finger pivot 1 upper washer - datum 3",
+    "offset": "8.5 mm",
+    "param": "d146"
+  },
+  {
+    "name": "Left finger pivot 1 M3 locking nut - datum 1",
+    "offset": "0 mm",
+    "param": "d147"
+  },
+  {
+    "name": "Left finger pivot 1 M3 locking nut - datum 2",
+    "offset": "0 mm",
+    "param": "d148"
+  },
+  {
+    "name": "Left finger pivot 1 M3 locking nut - datum 3",
+    "offset": "9 mm",
+    "param": "d149"
+  },
+  {
+    "name": "Left finger pivot 2 metal sleeve - datum 1",
+    "offset": "7 mm",
+    "param": "d150"
+  },
+  {
+    "name": "Left finger pivot 2 metal sleeve - datum 2",
+    "offset": "24 mm",
+    "param": "d151"
+  },
+  {
+    "name": "Left finger pivot 2 metal sleeve - datum 3",
+    "offset": "-4.5 mm",
+    "param": "d152"
+  },
+  {
+    "name": "Left finger pivot 2 M3 bolt - datum 1",
+    "offset": "7 mm",
+    "param": "d153"
+  },
+  {
+    "name": "Left finger pivot 2 M3 bolt - datum 2",
+    "offset": "24 mm",
+    "param": "d154"
+  },
+  {
+    "name": "Left finger pivot 2 M3 bolt - datum 3",
+    "offset": "-5 mm",
+    "param": "d155"
+  },
+  {
+    "name": "Left finger pivot 2 lower washer - datum 1",
+    "offset": "7 mm",
+    "param": "d156"
+  },
+  {
+    "name": "Left finger pivot 2 lower washer - datum 2",
+    "offset": "24 mm",
+    "param": "d157"
+  },
+  {
+    "name": "Left finger pivot 2 lower washer - datum 3",
+    "offset": "-5 mm",
+    "param": "d158"
+  },
+  {
+    "name": "Left finger pivot 2 upper washer - datum 1",
+    "offset": "7 mm",
+    "param": "d159"
+  },
+  {
+    "name": "Left finger pivot 2 upper washer - datum 2",
+    "offset": "24 mm",
+    "param": "d160"
+  },
+  {
+    "name": "Left finger pivot 2 upper washer - datum 3",
+    "offset": "8.5 mm",
+    "param": "d161"
+  },
+  {
+    "name": "Left finger pivot 2 M3 locking nut - datum 1",
+    "offset": "7 mm",
+    "param": "d162"
+  },
+  {
+    "name": "Left finger pivot 2 M3 locking nut - datum 2",
+    "offset": "24 mm",
+    "param": "d163"
+  },
+  {
+    "name": "Left finger pivot 2 M3 locking nut - datum 3",
+    "offset": "9 mm",
+    "param": "d164"
+  },
+  {
+    "name": "Right gear face height",
+    "offset": "3.5 mm",
+    "param": "d165"
+  },
+  {
+    "name": "Right gear pivot",
+    "offset": "0 mm",
+    "param": "d166"
+  },
+  {
+    "name": "Right follower height",
+    "offset": "9 mm",
+    "param": "d167"
+  },
+  {
+    "name": "Right follower pivot",
+    "offset": "0 mm",
+    "param": "d168"
+  },
+  {
+    "name": "Right finger height",
+    "offset": "13.5 mm",
+    "param": "d169"
+  },
+  {
+    "name": "Right finger upper pivot",
+    "offset": "0 mm",
+    "param": "d170"
+  },
+  {
+    "name": "Right finger lower pivot",
+    "offset": "0 mm",
+    "param": "d171"
+  },
+  {
+    "name": "Right foam contact pad - datum 1",
+    "offset": "34 mm",
+    "param": "d172"
+  },
+  {
+    "name": "Right foam contact pad - datum 2",
+    "offset": "8 mm",
+    "param": "d173"
+  },
+  {
+    "name": "Right foam contact pad - datum 3",
+    "offset": "-15 mm",
+    "param": "d174"
+  },
+  {
+    "name": "Right finger pivot 1 metal sleeve - datum 1",
+    "offset": "0 mm",
+    "param": "d175"
+  },
+  {
+    "name": "Right finger pivot 1 metal sleeve - datum 2",
+    "offset": "0 mm",
+    "param": "d176"
+  },
+  {
+    "name": "Right finger pivot 1 metal sleeve - datum 3",
+    "offset": "-4.5 mm",
+    "param": "d177"
+  },
+  {
+    "name": "Right finger pivot 1 M3 bolt - datum 1",
+    "offset": "0 mm",
+    "param": "d178"
+  },
+  {
+    "name": "Right finger pivot 1 M3 bolt - datum 2",
+    "offset": "0 mm",
+    "param": "d179"
+  },
+  {
+    "name": "Right finger pivot 1 M3 bolt - datum 3",
+    "offset": "-5 mm",
+    "param": "d180"
+  },
+  {
+    "name": "Right finger pivot 1 lower washer - datum 1",
+    "offset": "0 mm",
+    "param": "d181"
+  },
+  {
+    "name": "Right finger pivot 1 lower washer - datum 2",
+    "offset": "0 mm",
+    "param": "d182"
+  },
+  {
+    "name": "Right finger pivot 1 lower washer - datum 3",
+    "offset": "-5 mm",
+    "param": "d183"
+  },
+  {
+    "name": "Right finger pivot 1 upper washer - datum 1",
+    "offset": "0 mm",
+    "param": "d184"
+  },
+  {
+    "name": "Right finger pivot 1 upper washer - datum 2",
+    "offset": "0 mm",
+    "param": "d185"
+  },
+  {
+    "name": "Right finger pivot 1 upper washer - datum 3",
+    "offset": "8.5 mm",
+    "param": "d186"
+  },
+  {
+    "name": "Right finger pivot 1 M3 locking nut - datum 1",
+    "offset": "0 mm",
+    "param": "d187"
+  },
+  {
+    "name": "Right finger pivot 1 M3 locking nut - datum 2",
+    "offset": "0 mm",
+    "param": "d188"
+  },
+  {
+    "name": "Right finger pivot 1 M3 locking nut - datum 3",
+    "offset": "9 mm",
+    "param": "d189"
+  },
+  {
+    "name": "Right finger pivot 2 metal sleeve - datum 1",
+    "offset": "-7 mm",
+    "param": "d190"
+  },
+  {
+    "name": "Right finger pivot 2 metal sleeve - datum 2",
+    "offset": "24 mm",
+    "param": "d191"
+  },
+  {
+    "name": "Right finger pivot 2 metal sleeve - datum 3",
+    "offset": "-4.5 mm",
+    "param": "d192"
+  },
+  {
+    "name": "Right finger pivot 2 M3 bolt - datum 1",
+    "offset": "-7 mm",
+    "param": "d193"
+  },
+  {
+    "name": "Right finger pivot 2 M3 bolt - datum 2",
+    "offset": "24 mm",
+    "param": "d194"
+  },
+  {
+    "name": "Right finger pivot 2 M3 bolt - datum 3",
+    "offset": "-5 mm",
+    "param": "d195"
+  },
+  {
+    "name": "Right finger pivot 2 lower washer - datum 1",
+    "offset": "-7 mm",
+    "param": "d196"
+  },
+  {
+    "name": "Right finger pivot 2 lower washer - datum 2",
+    "offset": "24 mm",
+    "param": "d197"
+  },
+  {
+    "name": "Right finger pivot 2 lower washer - datum 3",
+    "offset": "-5 mm",
+    "param": "d198"
+  },
+  {
+    "name": "Right finger pivot 2 upper washer - datum 1",
+    "offset": "-7 mm",
+    "param": "d199"
+  },
+  {
+    "name": "Right finger pivot 2 upper washer - datum 2",
+    "offset": "24 mm",
+    "param": "d200"
+  },
+  {
+    "name": "Right finger pivot 2 upper washer - datum 3",
+    "offset": "8.5 mm",
+    "param": "d201"
+  },
+  {
+    "name": "Right finger pivot 2 M3 locking nut - datum 1",
+    "offset": "-7 mm",
+    "param": "d202"
+  },
+  {
+    "name": "Right finger pivot 2 M3 locking nut - datum 2",
+    "offset": "24 mm",
+    "param": "d203"
+  },
+  {
+    "name": "Right finger pivot 2 M3 locking nut - datum 3",
+    "offset": "9 mm",
+    "param": "d204"
+  },
+  {
+    "name": "26T to 26T external gear mesh",
+    "offset": "",
+    "param": ""
+  },
+  {
+    "name": "26T to 18T external gear mesh",
+    "offset": "",
+    "param": ""
+  },
+  {
+    "name": "Jaw opening drive",
+    "offset": "",
+    "param": ""
+  },
+  {
+    "name": "M3 captive frame nut 1 axis",
+    "offset": "0 mm",
+    "param": "d208"
+  },
+  {
+    "name": "M3 captive frame nut 1 height",
+    "offset": "0 mm",
+    "param": "d209"
+  },
+  {
+    "name": "M3 captive frame nut 1 pocket orientation",
+    "offset": "",
+    "param": ""
+  },
+  {
+    "name": "M3 captive frame nut 2 axis",
+    "offset": "0 mm",
+    "param": "d211"
+  },
+  {
+    "name": "M3 captive frame nut 2 height",
+    "offset": "0 mm",
+    "param": "d212"
+  },
+  {
+    "name": "M3 captive frame nut 2 pocket orientation",
+    "offset": "",
+    "param": ""
+  },
+  {
+    "name": "M3 captive frame nut 3 axis",
+    "offset": "0 mm",
+    "param": "d214"
+  },
+  {
+    "name": "M3 captive frame nut 3 height",
+    "offset": "0 mm",
+    "param": "d215"
+  },
+  {
+    "name": "M3 captive frame nut 3 pocket orientation",
+    "offset": "",
+    "param": ""
+  },
+  {
+    "name": "Rotating motor output shaft - datum 1",
+    "offset": "0 mm",
+    "param": "d217"
+  },
+  {
+    "name": "Rotating motor output shaft - datum 2",
+    "offset": "0 mm",
+    "param": "d218"
+  },
+  {
+    "name": "Rotating motor output shaft - datum 3",
+    "offset": "0 mm",
+    "param": "d219"
+  },
+  {
+    "name": "M3 motor shaft set screw - datum 1",
+    "offset": "0 mm",
+    "param": "d220"
+  },
+  {
+    "name": "M3 motor shaft set screw - datum 2",
+    "offset": "2 mm",
+    "param": "d221"
+  },
+  {
+    "name": "M3 motor shaft set screw - datum 3",
+    "offset": "-5 mm",
+    "param": "d222"
+  }
+]
