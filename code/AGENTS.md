@@ -18,7 +18,7 @@
 
 ## Current implementation status
 
-The flowchart PDF describes this accepted behavior. The Python file already filters unknown names in lookup_products, but its packing function still needs the per-entry catalogue check and shared-list removal described above. Apply these requirements when code editing resumes, and test mixed valid/invalid scans, Labubu, adjacent invalid entries, all-invalid scans, and repeated valid products.
+The Python file now implements the per-entry catalogue check and shared-list removal. It also accepts the supplied space-separated barcodes, offers manual entry in lab mode, and captures calibration positions inside the existing main function. Preserve these behaviors and test mixed valid/invalid scans, Labubu, adjacent invalid entries, all-invalid scans, repeated valid products, and calibration without commanded movement. README.md documents the current setup; the existing flowchart PDF predates the added calibration and manual-entry branches.
 
 ## Course constraints
 

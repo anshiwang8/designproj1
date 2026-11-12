@@ -5,11 +5,27 @@ import time
 import bcrypt  # The project gives us the two password-hashing commands.
 
 DEMO = True
+CALIBRATE = False  # True: capture measured positions in main(), then exit.
 TAX_PERCENT = 13  # Assumption: the brief asks for tax without giving a rate.
 
 # Lab setup: use the course template's setup lines here to create arm and
 # scan_barcode. Put products.csv in the working folder, then set DEMO to False.
-# Use arm.get_arm_position() to measure each position in metres.
+# CALIBRATION (also see README.md):
+# 1. Add the supplied lab setup above this section; set DEMO = False.
+# 2. Put the official products.csv beside this file. Set CALIBRATE = True.
+# 3. Run the file from this folder. Use the lab's controls to position the
+#    arm at each requested waypoint, stop, then press Enter to read XYZ.
+#    This mode reads positions only; it does not move the arm for you.
+# 4. Copy the printed PICKUPS, ABOVE_BIN and IN_BIN assignments here.
+# 5. From a known open gripper, measure a suitable signed MOTOR-SHAFT
+#    rotation to grip the items. Set CLOSE_DEGREES below to that value.
+#    arm.home() does NOT reset the gripper. Restore the known open state
+#    before every run. Opening during packing reverses CLOSE_DEGREES.
+# 6. Set CALIBRATE = False. Test the measured paths in the lab before orders.
+#    Recalibrate after moving the tray, bin, arm base or changing the gripper.
+# Keep the documented joint ranges: base +/-170, shoulder +/-85,
+# elbow -95 to +75, wrist +/-160 degrees. Gripper travel is design-specific.
+# Never substitute example coordinates for measurements in metres.
 # PICKUPS uses a lowercase product name as its key. Its value is a list:
 # [position above the item, position at the item]. Each position is [x, y, z].
 PICKUPS = {}
@@ -104,7 +120,12 @@ def authenticate():
 
 def read_scan():
     if DEMO:
-        return input("Type product names separated by commas: ")
+        return input("Type product names separated by commas or spaces: ")
+    method = input("Enter s to scan a barcode or m to type an order: ").strip().lower()
+    while method not in ["s", "m"]:
+        method = input("Please enter s or m: ").strip().lower()
+    if method == "m":
+        return input("Type product names separated by commas or spaces: ")
     return scan_barcode()  # Provided by the Q-Arm template.
 
 
@@ -117,17 +138,28 @@ def lookup_products(products):
             if row[1].strip().lower() != "price":  # Skip the heading, if present.
                 catalogue.append([row[0].strip(), float(row[1])])
 
+    # The supplied barcodes contain SPACE-separated names and trailing newlines.
+    # Commas also allow manual entry of catalogue names containing spaces.
+    entries = products.split(",")
+    if "," not in products:
+        whole_name = False
+        for item in catalogue:
+            if products.strip().lower() == item[0].lower():
+                whole_name = True
+        if not whole_name:
+            entries = products.split()
+
     matches = []
-    for entry in products.split(","):
+    for entry in entries:
         name = entry.strip().lower()
         if name != "":
             found = False
             for item in catalogue:
                 if name == item[0].lower() and not found:
-                    matches.append(item)
+                    matches.append([item[0], item[1]])
                     found = True
             if not found:
-                print("Unknown product; skipping:", entry.strip())
+                print("Unavailable product; skipping:", entry.strip())
     return matches
 
 
@@ -140,25 +172,61 @@ def can_pack(product_list):
         if len(ABOVE_BIN) != 3 or len(IN_BIN) != 3 or CLOSE_DEGREES == 0:
             print("Set both bin positions and the closing angle first.")
             return False
+        if ABOVE_BIN[2] <= IN_BIN[2]:
+            print("Calibration needed: ABOVE_BIN must be higher than IN_BIN.")
+            return False
         for item in product_list:
             name = item[0].lower()
             if name not in PICKUPS:
-                print("Missing pickup positions for", item[0])
+                print("Calibration needed: missing pickup positions for", item[0])
                 return False
             points = PICKUPS[name]
             if len(points) != 2 or len(points[0]) != 3 or len(points[1]) != 3:
                 print("Each product needs two measured XYZ positions:", item[0])
                 return False
+            if points[0][2] <= points[1][2]:
+                print("Calibration needed: approach must be above pickup for", item[0])
+                return False
     return True
 
 
 def pack_products(product_list):
-    # main() has checked all positions. Use tested paths and refill reused slots.
-    for item in product_list:
+    # Recheck catalogue membership even if this function is called directly.
+    # A position in PICKUPS does not establish that a product exists.
+    valid_names = []
+    if DEMO:
+        valid_names = ["widget", "gear", "block"]
+    else:
+        for row in read_rows("products.csv"):
+            if row[1].strip().lower() != "price":
+                valid_names.append(row[0].strip().lower())
+
+    index = 0
+    while index < len(product_list):
+        if product_list[index][0].strip().lower() not in valid_names:
+            print("Unavailable product; skipping:", product_list[index][0])
+            del product_list[index]  # Check the shifted entry at this index next.
+        else:
+            index += 1
+
+    # No movement or invoicing when the remaining order lacks calibration.
+    if not can_pack(product_list):
+        product_list[:] = []
+        return
+
+    packed_names = []
+    index = 0
+    while index < len(product_list):
+        item = product_list[index]
         name = item[0]
         if DEMO:
             print("Demo: simulated packing of", name)
         else:
+            if name.lower() in packed_names:
+                if not ask_yes_no("Refill the pickup slot for " + name + ". Ready?"):
+                    # Keep only units already packed for the invoice.
+                    del product_list[index:]
+                    return
             above_item, at_item = PICKUPS[name.lower()]
             arm.set_arm_position(above_item)
             time.sleep(2)
@@ -177,6 +245,8 @@ def pack_products(product_list):
             arm.set_arm_position(ABOVE_BIN)
             time.sleep(2)
             print("Packing sequence finished for", name)
+        packed_names.append(name.lower())
+        index += 1
 
 
 def complete_order(userid, product_list):
@@ -245,19 +315,54 @@ def main():
     print("Welcome to the Mon-51 warehouse.")
     if DEMO:
         print("Laptop practice mode. Sample products: widget, gear, block.")
+    if CALIBRATE:
+        if DEMO:
+            print("Calibration needs the supplied lab setup and DEMO = False.")
+            return
+        print("Calibration reads positions only. Use the lab controls to move.")
+        print("Keep the gripper open; stop at each waypoint before pressing Enter.")
+        calibration_products = lookup_products(input("Catalogue items to calibrate: "))
+        measured_pickups = {}
+        for item in calibration_products:
+            name = item[0].lower()
+            if name not in measured_pickups:
+                input("Position ABOVE " + item[0] + "; press Enter when stopped: ")
+                point = arm.get_arm_position()
+                above_item = [point[0], point[1], point[2]]
+                input("Position AT pickup for " + item[0] + "; press Enter when stopped: ")
+                point = arm.get_arm_position()
+                at_item = [point[0], point[1], point[2]]
+                measured_pickups[name] = [above_item, at_item]
+        if len(measured_pickups) > 0:
+            input("Position ABOVE the shipping bin; press Enter when stopped: ")
+            point = arm.get_arm_position()
+            above_bin = [point[0], point[1], point[2]]
+            input("Position AT release in the bin; press Enter when stopped: ")
+            point = arm.get_arm_position()
+            in_bin = [point[0], point[1], point[2]]
+            print("Copy these assignments into the lab setup section:")
+            print("PICKUPS =", measured_pickups)
+            print("ABOVE_BIN =", above_bin)
+            print("IN_BIN =", in_bin)
+            print("Also set the measured CLOSE_DEGREES, then CALIBRATE = False.")
+        arm.end_arm_connection()
+        return
     userid = authenticate()
     another_order = True
     while another_order:
         scan = read_scan()
-        products = lookup_products(scan)
-        if can_pack(products):
-            pack_products(products)
-            complete_order(userid, products)
+        product_list = lookup_products(scan)
+        # pack_products validates the whole list before its first movement.
+        pack_products(product_list)
+        complete_order(userid, product_list)
+        if not DEMO:
+            print("Before another order, refill every pickup slot used above.")
         another_order = ask_yes_no("Scan another order?")
     customer_summary(userid)
     if not DEMO:
         arm.end_arm_connection()
 
 
-main()
+if __name__ == "__main__":
+    main()
 
