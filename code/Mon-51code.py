@@ -1,10 +1,12 @@
+###ALL comments are currently temporary can you guys formalize if its required by submission
 import random
 import time
 import bcrypt
-
+#demo set to false when you guys are testing the gripper
 DEMO = True
 TAX = 0.13
-
+#enter coordinates for robot arm: (above location, at location, xyz)
+#i dont rally know how the code for the robot arm works so i am assumign its in a coordinate system soryr gyts
 PICKUPS = {
     "item1": [[0, 0, 0], [0, 0, 0]],
     "item2": [[0, 0, 0], [0, 0, 0]],
@@ -13,8 +15,10 @@ PICKUPS = {
     "item5": [[0, 0, 0], [0, 0, 0]],
     "item6": [[0, 0, 0], [0, 0, 0]],
 }
+#same here add corodinates
 ABOVE_BIN = [0, 0, 0]
 IN_BIN = [0, 0, 0]
+#this is for the gripper to opena nd close
 CLOSE_DEGREES = 0
 
 if DEMO:
