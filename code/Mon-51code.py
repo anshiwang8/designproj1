@@ -73,7 +73,7 @@ def validPassword(password):
     return len(password) >= 6 and hasUpper and hasLower and hasDigit and hasSymbol
 
 
-def signUp():
+def sign_up():
     existingIds = []
     for row in readRows(USERS, "a+"):
         existingIds.append(row[0])
@@ -96,7 +96,7 @@ def signUp():
 
 def authenticate():
     if not askYesNo("Do you have an account?"):
-        signUp()
+        sign_up()
 
     accounts = readRows(USERS, "a+")
     while True:
@@ -120,7 +120,7 @@ def readScan():
     return scan_barcode()
 
 
-def lookupProducts(products):
+def lookup_products(products):
     catalogue = readCatalogue()
 
     if "," in products:
@@ -165,7 +165,7 @@ def moveTo(position):
     time.sleep(2)
 
 
-def packProducts(product_list):
+def pack_products(product_list):
     validNames = []
     for item in readCatalogue():
         validNames.append(item[0].lower())
@@ -210,7 +210,7 @@ def packProducts(product_list):
         i += 1
 
 
-def completeOrder(userId, product_list):
+def complete_order(userId, product_list):
     if len(product_list) == 0:
         return
 
@@ -244,7 +244,7 @@ def completeOrder(userId, product_list):
     print("Orders placed so far:", orderCount)
 
 
-def customerSummary(userId):
+def customer_summary(userId):
     orderCount = 0
     totalSpent = 0
     quantities = {}
@@ -272,11 +272,11 @@ def main():
     userId = authenticate()
     anotherOrder = True
     while anotherOrder:
-        product_list = lookupProducts(readScan())
-        packProducts(product_list)
-        completeOrder(userId, product_list)
+        product_list = lookup_products(readScan())
+        pack_products(product_list)
+        complete_order(userId, product_list)
         anotherOrder = askYesNo("Place another order?")
-    customerSummary(userId)
+    customer_summary(userId)
     if not DEMO:
         arm.end_arm_connection()
 
